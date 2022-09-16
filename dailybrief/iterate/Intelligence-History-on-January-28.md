@@ -1,0 +1,29 @@
+---
+title: Intelligence-History-on-January-28
+date: 2022-01-28
+author: Qiushi 
+tags: 
+- intelligence history
+- dailybrief
+featuredImagePreview: '/img/icon.png'
+---
+
+
+情报历史上的1月28日，这些情报被递交给时任美国总统
+
+January 28 in history, these intelligence were sent to the US president
+
+<!--more-->
+
+[Intelligence History on 1963 January 28]({{< relref "dailybrief/1963-01-28.md" >  }})
+[Intelligence History on 1964 January 28]({{< relref "dailybrief/1964-01-28.md" >  }})
+[Intelligence History on 1965 January 28]({{< relref "dailybrief/1965-01-28.md" >  }})
+[Intelligence History on 1966 January 28]({{< relref "dailybrief/1966-01-28.md" >  }})
+[Intelligence History on 1967 January 28]({{< relref "dailybrief/1967-01-28.md" >  }})
+[Intelligence History on 1969 January 28]({{< relref "dailybrief/1969-01-28.md" >  }})
+[Intelligence History on 1970 January 28]({{< relref "dailybrief/1970-01-28.md" >  }})
+[Intelligence History on 1971 January 28]({{< relref "dailybrief/1971-01-28.md" >  }})
+[Intelligence History on 1972 January 28]({{< relref "dailybrief/1972-01-28.md" >  }})
+[Intelligence History on 1974 January 28]({{< relref "dailybrief/1974-01-28.md" >  }})
+[Intelligence History on 1975 January 28]({{< relref "dailybrief/1975-01-28.md" >  }})
+[Intelligence History on 1976 January 28]({{< relref "dailybrief/1976-01-28.md" >  }})
