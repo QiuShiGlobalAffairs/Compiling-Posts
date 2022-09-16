@@ -1,5 +1,5 @@
 ---
-title: Intelligence-History-on-May-20
+title: Intelligence History on May 20
 date: 2022-05-20
 author: Qiushi 
 tags: 
@@ -15,15 +15,15 @@ May 20 in history, these intelligence were sent to the US president
 
 <!--more-->
 
-[Intelligence History on 1963 May 20]({{< relref "dailybrief/1963-05-20.md" >  }})
-[Intelligence History on 1964 May 20]({{< relref "dailybrief/1964-05-20.md" >  }})
-[Intelligence History on 1966 May 20]({{< relref "dailybrief/1966-05-20.md" >  }})
-[Intelligence History on 1967 May 20]({{< relref "dailybrief/1967-05-20.md" >  }})
-[Intelligence History on 1968 May 20]({{< relref "dailybrief/1968-05-20.md" >  }})
-[Intelligence History on 1969 May 20]({{< relref "dailybrief/1969-05-20.md" >  }})
-[Intelligence History on 1970 May 20]({{< relref "dailybrief/1970-05-20.md" >  }})
-[Intelligence History on 1971 May 20]({{< relref "dailybrief/1971-05-20.md" >  }})
-[Intelligence History on 1972 May 20]({{< relref "dailybrief/1972-05-20.md" >  }})
-[Intelligence History on 1974 May 20]({{< relref "dailybrief/1974-05-20.md" >  }})
-[Intelligence History on 1975 May 20]({{< relref "dailybrief/1975-05-20.md" >  }})
-[Intelligence History on 1976 May 20]({{< relref "dailybrief/1976-05-20.md" >  }})
+[Intelligence History on 1963 May 20](/dailybrief/1963-05-20.md)   
+[Intelligence History on 1964 May 20](/dailybrief/1964-05-20.md)   
+[Intelligence History on 1966 May 20](/dailybrief/1966-05-20.md)   
+[Intelligence History on 1967 May 20](/dailybrief/1967-05-20.md)   
+[Intelligence History on 1968 May 20](/dailybrief/1968-05-20.md)   
+[Intelligence History on 1969 May 20](/dailybrief/1969-05-20.md)   
+[Intelligence History on 1970 May 20](/dailybrief/1970-05-20.md)   
+[Intelligence History on 1971 May 20](/dailybrief/1971-05-20.md)   
+[Intelligence History on 1972 May 20](/dailybrief/1972-05-20.md)   
+[Intelligence History on 1974 May 20](/dailybrief/1974-05-20.md)   
+[Intelligence History on 1975 May 20](/dailybrief/1975-05-20.md)   
+[Intelligence History on 1976 May 20](/dailybrief/1976-05-20.md)   

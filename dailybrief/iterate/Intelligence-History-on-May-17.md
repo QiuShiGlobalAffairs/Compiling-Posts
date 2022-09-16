@@ -1,5 +1,5 @@
 ---
-title: Intelligence-History-on-May-17
+title: Intelligence History on May 17
 date: 2022-05-17
 author: Qiushi 
 tags: 
@@ -15,16 +15,16 @@ May 17 in history, these intelligence were sent to the US president
 
 <!--more-->
 
-[Intelligence History on 1962 May 17]({{< relref "dailybrief/1962-05-17.md" >  }})
-[Intelligence History on 1963 May 17]({{< relref "dailybrief/1963-05-17.md" >  }})
-[Intelligence History on 1965 May 17]({{< relref "dailybrief/1965-05-17.md" >  }})
-[Intelligence History on 1966 May 17]({{< relref "dailybrief/1966-05-17.md" >  }})
-[Intelligence History on 1967 May 17]({{< relref "dailybrief/1967-05-17.md" >  }})
-[Intelligence History on 1968 May 17]({{< relref "dailybrief/1968-05-17.md" >  }})
-[Intelligence History on 1969 May 17]({{< relref "dailybrief/1969-05-17.md" >  }})
-[Intelligence History on 1971 May 17]({{< relref "dailybrief/1971-05-17.md" >  }})
-[Intelligence History on 1972 May 17]({{< relref "dailybrief/1972-05-17.md" >  }})
-[Intelligence History on 1973 May 17]({{< relref "dailybrief/1973-05-17.md" >  }})
-[Intelligence History on 1974 May 17]({{< relref "dailybrief/1974-05-17.md" >  }})
-[Intelligence History on 1975 May 17]({{< relref "dailybrief/1975-05-17.md" >  }})
-[Intelligence History on 1976 May 17]({{< relref "dailybrief/1976-05-17.md" >  }})
+[Intelligence History on 1962 May 17](/dailybrief/1962-05-17.md)   
+[Intelligence History on 1963 May 17](/dailybrief/1963-05-17.md)   
+[Intelligence History on 1965 May 17](/dailybrief/1965-05-17.md)   
+[Intelligence History on 1966 May 17](/dailybrief/1966-05-17.md)   
+[Intelligence History on 1967 May 17](/dailybrief/1967-05-17.md)   
+[Intelligence History on 1968 May 17](/dailybrief/1968-05-17.md)   
+[Intelligence History on 1969 May 17](/dailybrief/1969-05-17.md)   
+[Intelligence History on 1971 May 17](/dailybrief/1971-05-17.md)   
+[Intelligence History on 1972 May 17](/dailybrief/1972-05-17.md)   
+[Intelligence History on 1973 May 17](/dailybrief/1973-05-17.md)   
+[Intelligence History on 1974 May 17](/dailybrief/1974-05-17.md)   
+[Intelligence History on 1975 May 17](/dailybrief/1975-05-17.md)   
+[Intelligence History on 1976 May 17](/dailybrief/1976-05-17.md)   

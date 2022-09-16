@@ -1,5 +1,5 @@
 ---
-title: Intelligence-History-on-July-1
+title: Intelligence History on July 1
 date: 2022-07-01
 author: Qiushi 
 tags: 
@@ -15,16 +15,16 @@ July 1 in history, these intelligence were sent to the US president
 
 <!--more-->
 
-[Intelligence History on 1963 July 1]({{< relref "dailybrief/1963-07-01.md" >  }})
-[Intelligence History on 1964 July 1]({{< relref "dailybrief/1964-07-01.md" >  }})
-[Intelligence History on 1965 July 1]({{< relref "dailybrief/1965-07-01.md" >  }})
-[Intelligence History on 1966 July 1]({{< relref "dailybrief/1966-07-01.md" >  }})
-[Intelligence History on 1967 July 1]({{< relref "dailybrief/1967-07-01.md" >  }})
-[Intelligence History on 1968 July 1]({{< relref "dailybrief/1968-07-01.md" >  }})
-[Intelligence History on 1969 July 1]({{< relref "dailybrief/1969-07-01.md" >  }})
-[Intelligence History on 1970 July 1]({{< relref "dailybrief/1970-07-01.md" >  }})
-[Intelligence History on 1971 July 1]({{< relref "dailybrief/1971-07-01.md" >  }})
-[Intelligence History on 1972 July 1]({{< relref "dailybrief/1972-07-01.md" >  }})
-[Intelligence History on 1974 July 1]({{< relref "dailybrief/1974-07-01.md" >  }})
-[Intelligence History on 1975 July 1]({{< relref "dailybrief/1975-07-01.md" >  }})
-[Intelligence History on 1976 July 1]({{< relref "dailybrief/1976-07-01.md" >  }})
+[Intelligence History on 1963 July 1](/dailybrief/1963-07-01.md)   
+[Intelligence History on 1964 July 1](/dailybrief/1964-07-01.md)   
+[Intelligence History on 1965 July 1](/dailybrief/1965-07-01.md)   
+[Intelligence History on 1966 July 1](/dailybrief/1966-07-01.md)   
+[Intelligence History on 1967 July 1](/dailybrief/1967-07-01.md)   
+[Intelligence History on 1968 July 1](/dailybrief/1968-07-01.md)   
+[Intelligence History on 1969 July 1](/dailybrief/1969-07-01.md)   
+[Intelligence History on 1970 July 1](/dailybrief/1970-07-01.md)   
+[Intelligence History on 1971 July 1](/dailybrief/1971-07-01.md)   
+[Intelligence History on 1972 July 1](/dailybrief/1972-07-01.md)   
+[Intelligence History on 1974 July 1](/dailybrief/1974-07-01.md)   
+[Intelligence History on 1975 July 1](/dailybrief/1975-07-01.md)   
+[Intelligence History on 1976 July 1](/dailybrief/1976-07-01.md)   

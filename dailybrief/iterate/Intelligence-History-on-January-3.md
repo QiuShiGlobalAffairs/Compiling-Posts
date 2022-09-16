@@ -1,5 +1,5 @@
 ---
-title: Intelligence-History-on-January-3
+title: Intelligence History on January 3
 date: 2022-01-03
 author: Qiushi 
 tags: 
@@ -15,17 +15,17 @@ January 3 in history, these intelligence were sent to the US president
 
 <!--more-->
 
-[Intelligence History on 1962 January 3]({{< relref "dailybrief/1962-01-03.md" >  }})
-[Intelligence History on 1963 January 3]({{< relref "dailybrief/1963-01-03.md" >  }})
-[Intelligence History on 1964 January 3]({{< relref "dailybrief/1964-01-03.md" >  }})
-[Intelligence History on 1966 January 3]({{< relref "dailybrief/1966-01-03.md" >  }})
-[Intelligence History on 1967 January 3]({{< relref "dailybrief/1967-01-03.md" >  }})
-[Intelligence History on 1968 January 3]({{< relref "dailybrief/1968-01-03.md" >  }})
-[Intelligence History on 1969 January 3]({{< relref "dailybrief/1969-01-03.md" >  }})
-[Intelligence History on 1970 January 3]({{< relref "dailybrief/1970-01-03.md" >  }})
-[Intelligence History on 1972 January 3]({{< relref "dailybrief/1972-01-03.md" >  }})
-[Intelligence History on 1973 January 3]({{< relref "dailybrief/1973-01-03.md" >  }})
-[Intelligence History on 1974 January 3]({{< relref "dailybrief/1974-01-03.md" >  }})
-[Intelligence History on 1975 January 3]({{< relref "dailybrief/1975-01-03.md" >  }})
-[Intelligence History on 1976 January 3]({{< relref "dailybrief/1976-01-03.md" >  }})
-[Intelligence History on 1977 January 3]({{< relref "dailybrief/1977-01-03.md" >  }})
+[Intelligence History on 1962 January 3](/dailybrief/1962-01-03.md)   
+[Intelligence History on 1963 January 3](/dailybrief/1963-01-03.md)   
+[Intelligence History on 1964 January 3](/dailybrief/1964-01-03.md)   
+[Intelligence History on 1966 January 3](/dailybrief/1966-01-03.md)   
+[Intelligence History on 1967 January 3](/dailybrief/1967-01-03.md)   
+[Intelligence History on 1968 January 3](/dailybrief/1968-01-03.md)   
+[Intelligence History on 1969 January 3](/dailybrief/1969-01-03.md)   
+[Intelligence History on 1970 January 3](/dailybrief/1970-01-03.md)   
+[Intelligence History on 1972 January 3](/dailybrief/1972-01-03.md)   
+[Intelligence History on 1973 January 3](/dailybrief/1973-01-03.md)   
+[Intelligence History on 1974 January 3](/dailybrief/1974-01-03.md)   
+[Intelligence History on 1975 January 3](/dailybrief/1975-01-03.md)   
+[Intelligence History on 1976 January 3](/dailybrief/1976-01-03.md)   
+[Intelligence History on 1977 January 3](/dailybrief/1977-01-03.md)   

@@ -1,5 +1,5 @@
 ---
-title: Intelligence-History-on-April-26
+title: Intelligence History on April 26
 date: 2022-04-26
 author: Qiushi 
 tags: 
@@ -15,15 +15,15 @@ April 26 in history, these intelligence were sent to the US president
 
 <!--more-->
 
-[Intelligence History on 1962 April 26]({{< relref "dailybrief/1962-04-26.md" >  }})
-[Intelligence History on 1963 April 26]({{< relref "dailybrief/1963-04-26.md" >  }})
-[Intelligence History on 1965 April 26]({{< relref "dailybrief/1965-04-26.md" >  }})
-[Intelligence History on 1966 April 26]({{< relref "dailybrief/1966-04-26.md" >  }})
-[Intelligence History on 1967 April 26]({{< relref "dailybrief/1967-04-26.md" >  }})
-[Intelligence History on 1968 April 26]({{< relref "dailybrief/1968-04-26.md" >  }})
-[Intelligence History on 1971 April 26]({{< relref "dailybrief/1971-04-26.md" >  }})
-[Intelligence History on 1972 April 26]({{< relref "dailybrief/1972-04-26.md" >  }})
-[Intelligence History on 1973 April 26]({{< relref "dailybrief/1973-04-26.md" >  }})
-[Intelligence History on 1974 April 26]({{< relref "dailybrief/1974-04-26.md" >  }})
-[Intelligence History on 1975 April 26]({{< relref "dailybrief/1975-04-26.md" >  }})
-[Intelligence History on 1976 April 26]({{< relref "dailybrief/1976-04-26.md" >  }})
+[Intelligence History on 1962 April 26](/dailybrief/1962-04-26.md)   
+[Intelligence History on 1963 April 26](/dailybrief/1963-04-26.md)   
+[Intelligence History on 1965 April 26](/dailybrief/1965-04-26.md)   
+[Intelligence History on 1966 April 26](/dailybrief/1966-04-26.md)   
+[Intelligence History on 1967 April 26](/dailybrief/1967-04-26.md)   
+[Intelligence History on 1968 April 26](/dailybrief/1968-04-26.md)   
+[Intelligence History on 1971 April 26](/dailybrief/1971-04-26.md)   
+[Intelligence History on 1972 April 26](/dailybrief/1972-04-26.md)   
+[Intelligence History on 1973 April 26](/dailybrief/1973-04-26.md)   
+[Intelligence History on 1974 April 26](/dailybrief/1974-04-26.md)   
+[Intelligence History on 1975 April 26](/dailybrief/1975-04-26.md)   
+[Intelligence History on 1976 April 26](/dailybrief/1976-04-26.md)   

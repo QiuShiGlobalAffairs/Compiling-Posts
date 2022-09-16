@@ -1,5 +1,5 @@
 ---
-title: Intelligence-History-on-February-21
+title: Intelligence History on February 21
 date: 2022-02-21
 author: Qiushi 
 tags: 
@@ -15,16 +15,16 @@ February 21 in history, these intelligence were sent to the US president
 
 <!--more-->
 
-[Intelligence History on 1962 February 21]({{< relref "dailybrief/1962-02-21.md" >  }})
-[Intelligence History on 1963 February 21]({{< relref "dailybrief/1963-02-21.md" >  }})
-[Intelligence History on 1964 February 21]({{< relref "dailybrief/1964-02-21.md" >  }})
-[Intelligence History on 1966 February 21]({{< relref "dailybrief/1966-02-21.md" >  }})
-[Intelligence History on 1967 February 21]({{< relref "dailybrief/1967-02-21.md" >  }})
-[Intelligence History on 1968 February 21]({{< relref "dailybrief/1968-02-21.md" >  }})
-[Intelligence History on 1969 February 21]({{< relref "dailybrief/1969-02-21.md" >  }})
-[Intelligence History on 1970 February 21]({{< relref "dailybrief/1970-02-21.md" >  }})
-[Intelligence History on 1972 February 21]({{< relref "dailybrief/1972-02-21.md" >  }})
-[Intelligence History on 1973 February 21]({{< relref "dailybrief/1973-02-21.md" >  }})
-[Intelligence History on 1974 February 21]({{< relref "dailybrief/1974-02-21.md" >  }})
-[Intelligence History on 1975 February 21]({{< relref "dailybrief/1975-02-21.md" >  }})
-[Intelligence History on 1976 February 21]({{< relref "dailybrief/1976-02-21.md" >  }})
+[Intelligence History on 1962 February 21](/dailybrief/1962-02-21.md)   
+[Intelligence History on 1963 February 21](/dailybrief/1963-02-21.md)   
+[Intelligence History on 1964 February 21](/dailybrief/1964-02-21.md)   
+[Intelligence History on 1966 February 21](/dailybrief/1966-02-21.md)   
+[Intelligence History on 1967 February 21](/dailybrief/1967-02-21.md)   
+[Intelligence History on 1968 February 21](/dailybrief/1968-02-21.md)   
+[Intelligence History on 1969 February 21](/dailybrief/1969-02-21.md)   
+[Intelligence History on 1970 February 21](/dailybrief/1970-02-21.md)   
+[Intelligence History on 1972 February 21](/dailybrief/1972-02-21.md)   
+[Intelligence History on 1973 February 21](/dailybrief/1973-02-21.md)   
+[Intelligence History on 1974 February 21](/dailybrief/1974-02-21.md)   
+[Intelligence History on 1975 February 21](/dailybrief/1975-02-21.md)   
+[Intelligence History on 1976 February 21](/dailybrief/1976-02-21.md)   

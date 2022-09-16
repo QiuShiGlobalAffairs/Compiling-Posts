@@ -1,5 +1,5 @@
 ---
-title: Intelligence-History-on-March-3
+title: Intelligence History on March 3
 date: 2022-03-03
 author: Qiushi 
 tags: 
@@ -15,14 +15,14 @@ March 3 in history, these intelligence were sent to the US president
 
 <!--more-->
 
-[Intelligence History on 1962 March 3]({{< relref "dailybrief/1962-03-03.md" >  }})
-[Intelligence History on 1964 March 3]({{< relref "dailybrief/1964-03-03.md" >  }})
-[Intelligence History on 1965 March 3]({{< relref "dailybrief/1965-03-03.md" >  }})
-[Intelligence History on 1966 March 3]({{< relref "dailybrief/1966-03-03.md" >  }})
-[Intelligence History on 1967 March 3]({{< relref "dailybrief/1967-03-03.md" >  }})
-[Intelligence History on 1970 March 3]({{< relref "dailybrief/1970-03-03.md" >  }})
-[Intelligence History on 1971 March 3]({{< relref "dailybrief/1971-03-03.md" >  }})
-[Intelligence History on 1972 March 3]({{< relref "dailybrief/1972-03-03.md" >  }})
-[Intelligence History on 1973 March 3]({{< relref "dailybrief/1973-03-03.md" >  }})
-[Intelligence History on 1975 March 3]({{< relref "dailybrief/1975-03-03.md" >  }})
-[Intelligence History on 1976 March 3]({{< relref "dailybrief/1976-03-03.md" >  }})
+[Intelligence History on 1962 March 3](/dailybrief/1962-03-03.md)   
+[Intelligence History on 1964 March 3](/dailybrief/1964-03-03.md)   
+[Intelligence History on 1965 March 3](/dailybrief/1965-03-03.md)   
+[Intelligence History on 1966 March 3](/dailybrief/1966-03-03.md)   
+[Intelligence History on 1967 March 3](/dailybrief/1967-03-03.md)   
+[Intelligence History on 1970 March 3](/dailybrief/1970-03-03.md)   
+[Intelligence History on 1971 March 3](/dailybrief/1971-03-03.md)   
+[Intelligence History on 1972 March 3](/dailybrief/1972-03-03.md)   
+[Intelligence History on 1973 March 3](/dailybrief/1973-03-03.md)   
+[Intelligence History on 1975 March 3](/dailybrief/1975-03-03.md)   
+[Intelligence History on 1976 March 3](/dailybrief/1976-03-03.md)   

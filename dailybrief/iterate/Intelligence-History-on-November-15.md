@@ -1,5 +1,5 @@
 ---
-title: Intelligence-History-on-November-15
+title: Intelligence History on November 15
 date: 2022-11-15
 author: Qiushi 
 tags: 
@@ -15,17 +15,17 @@ November 15 in history, these intelligence were sent to the US president
 
 <!--more-->
 
-[Intelligence History on 1961 November 15]({{< relref "dailybrief/1961-11-15.md" >  }})
-[Intelligence History on 1962 November 15]({{< relref "dailybrief/1962-11-15.md" >  }})
-[Intelligence History on 1963 November 15]({{< relref "dailybrief/1963-11-15.md" >  }})
-[Intelligence History on 1965 November 15]({{< relref "dailybrief/1965-11-15.md" >  }})
-[Intelligence History on 1966 November 15]({{< relref "dailybrief/1966-11-15.md" >  }})
-[Intelligence History on 1967 November 15]({{< relref "dailybrief/1967-11-15.md" >  }})
-[Intelligence History on 1968 November 15]({{< relref "dailybrief/1968-11-15.md" >  }})
-[Intelligence History on 1969 November 15]({{< relref "dailybrief/1969-11-15.md" >  }})
-[Intelligence History on 1971 November 15]({{< relref "dailybrief/1971-11-15.md" >  }})
-[Intelligence History on 1972 November 15]({{< relref "dailybrief/1972-11-15.md" >  }})
-[Intelligence History on 1973 November 15]({{< relref "dailybrief/1973-11-15.md" >  }})
-[Intelligence History on 1974 November 15]({{< relref "dailybrief/1974-11-15.md" >  }})
-[Intelligence History on 1975 November 15]({{< relref "dailybrief/1975-11-15.md" >  }})
-[Intelligence History on 1976 November 15]({{< relref "dailybrief/1976-11-15.md" >  }})
+[Intelligence History on 1961 November 15](/dailybrief/1961-11-15.md)   
+[Intelligence History on 1962 November 15](/dailybrief/1962-11-15.md)   
+[Intelligence History on 1963 November 15](/dailybrief/1963-11-15.md)   
+[Intelligence History on 1965 November 15](/dailybrief/1965-11-15.md)   
+[Intelligence History on 1966 November 15](/dailybrief/1966-11-15.md)   
+[Intelligence History on 1967 November 15](/dailybrief/1967-11-15.md)   
+[Intelligence History on 1968 November 15](/dailybrief/1968-11-15.md)   
+[Intelligence History on 1969 November 15](/dailybrief/1969-11-15.md)   
+[Intelligence History on 1971 November 15](/dailybrief/1971-11-15.md)   
+[Intelligence History on 1972 November 15](/dailybrief/1972-11-15.md)   
+[Intelligence History on 1973 November 15](/dailybrief/1973-11-15.md)   
+[Intelligence History on 1974 November 15](/dailybrief/1974-11-15.md)   
+[Intelligence History on 1975 November 15](/dailybrief/1975-11-15.md)   
+[Intelligence History on 1976 November 15](/dailybrief/1976-11-15.md)   
