@@ -3,7 +3,10 @@ title: '策划：情报历史上的今日'
 date: 2022-09-15
 author: Qiushi
 
-tags: [Qiushi,dailybrief]
+tags: 
+- Qiushi
+- dailybrief
+
 featuredImagePreview: '/agency/CIA.png'
 ---
 
@@ -13,8 +16,6 @@ featuredImagePreview: '/agency/CIA.png'
 
 <!--more-->
 
-
 历史上的今日简报
 1961-1977
 
-<div id="over" style="width:100%; overflow:hidden"> <iframe id="sFrame" name="sFrame" frameborder="no" border="0"  allowfullscreen marginwidth="0" scrolling="no" src = " /CIA/1961-06-17.html "  style = " position:absulute; width: 806px; top: 300;" > </iframe> </div>
