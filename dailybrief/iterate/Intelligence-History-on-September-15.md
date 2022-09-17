@@ -16,6 +16,9 @@ September 15 in history, these intelligence were sent to the US president
 <!--more-->
 
 [Intelligence History on 1961 September 15](/dailybrief/1961-09-15)   
+
+1961年9月15日，苏联愿意限制北越对美缓和，来谋求老挝的中立政府。
+
 [Intelligence History on 1962 September 15](/dailybrief/1962-09-15)   
 [Intelligence History on 1964 September 15](/dailybrief/1964-09-15)   
 [Intelligence History on 1965 September 15](/dailybrief/1965-09-15)   
