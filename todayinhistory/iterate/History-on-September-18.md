@@ -38,7 +38,10 @@ September 18 in history,
 
 法国和长沙的两次大讨论将学会变成了早期的党会。五四运动之后，学会会员发展到74人。74个成员，早期先后加入共产党的约30人，毛泽东、蔡和森、向警予、易礼容、李维汉、罗章龙、郭亮、夏曦等，在早期都担任过党的重要领导职务。其他有30多人长期从事教育和科学事业。
 
+[^]:[新民学会会员通信集第一集](https://www.marxists.org/chinese/maozedong/1968/1-017.htm）
+[^]:[新民学会会员通信集第二集](https://www.marxists.org/chinese/maozedong/1968/1-018.htm）
+[^]:[新民学会会员通信集第三集](https://www.marxists.org/chinese/maozedong/1968/1-018.htm）
 [^]:[新民学会：中国共产党早期组织的重要源头](http://dangshi.people.com.cn/n1/2018/1221/c85037-30480820.html)
 [^]:[新民学会的革命实践活动及其历史贡献](http://www.wenming.cn/ll_pd/llzx/201804/t20180411_4650911.shtml)
 [^]:[毛泽东早年读书生活](http://www.quanxue.cn/LS_Mao/ZaoDu/ZaoDu25.html)
-新民学会的章程
+
