@@ -5,13 +5,12 @@ date: 2022-09-10
 
 featuredImagePreview: "/agency/CIA.png"
 TocOpen: ture
-categories:
-- North-America
 tags:
 - United States
 - dailybrief
 ---
-每日简报的策划,
+
+每日简报的策划,终于到了展示阶段。
 
 以下是美国总统简报的公开检索途径，
 
@@ -32,132 +31,138 @@ https://www.cia.gov/readingroom/collection/presidents-daily-brief-1961-1969 from
 
 第一步是pdf转html
 ```markdown
-import requests
 import os
+import subprocess
+
+# for root, dirs, files in os.walk(path, topdown=False):
+# _path = os.path.join(root, name)
+#path = "./md"
+path = './pdf2html/print/'
+files = os.listdir(path)
 
 
-for j in range(0,124):
-    r = requests.get('https://www.cia.gov/readingroom/collection/presidents-daily-brief-1961-1969?page=' + str(j))
-    s = requests.session()
-	#由于cia官网的落后，导致我们甚至需要用上的代码不带参数地运行一次来获取第一页。
-    with open("cia"  + "/" + str(j) + ".html", "w", encoding='utf-8') as f:
+for j in range(3000, 4000):
+    file = files[j]
+    sh = r'./pdf2html/pdf2htmlEX.exe'  # 这里r可以解决空格和中文字符的烦恼
+    # proc=subprocess.Popen(sh, stdin=subprocess.PIPE)
+    #a = './pdf2html/print/' + file
+    a = path + file
+    #b=  '--dest-dir ./pdf2html/out/'
+    # print(a)
+    p = subprocess.Popen(sh + ' --zoom 1.3 ' + a)
+    print(p.communicate()[0])
+    print(j, file)
 
-        try:
-            f.write(r.text)
-            f.close()
-			print( str(j) + "yes")
-        except UnicodeEncodeError:
-            print( str(j) + "fail")
-    s.keep_alive = False
 ```
 第二步是在md用iframe中读取这些网页
 
 ```markdown
-import requests
+
 import os
+import subprocess
 
-path = './cia/'
+# for root, dirs, files in os.walk(path, topdown=False):
+# _path = os.path.join(root, name)
+path = r"C:\Users\Bachelor\Desktop\ABC\CIA"
+path2 = r'C:\Users\Bachelor\Desktop\ABC\dailybrief'
+#path = r"C:\Users\Bachelor\node_modules\showdown\bin\md"
+
 files = os.listdir(path)
-for file in range(13,124):
-        FData = ''
+for j in range(0, 4865):
+    file = files[j]
+    file = file.rstrip('.html')
+    year = file.split('-')[0]
+    month = file.split('-')[1]
+    date= file.split('-')[2][0:2]
+    fdate=year+'-'+month+'-'+date
+    print(j,year,file)
 
-        with open(f"{path}/{file}.html", "rb") as f:
-            for line in f.readlines():
-                line = line.lower()
-                FData += line.decode()
-        #FData = FData.replace('\n', '').replace('\r', '')
-        print({file})
-        #print(FData)
+    c = month.replace('01', 'January')
+    c = c.replace('06','June' )
+    c = c.replace('03','March' )
+    c = c.replace('05','May' )
+    c = c.replace('11','November' )
+    c = c.replace('09','September')
+    c = c.replace('04','April' )
+    c = c.replace('08','August' )
+    c = c.replace('12','December' )
+    c = c.replace('02','February' )
+    c = c.replace('07', 'July')
+    c = c.replace('10','October')
 
-        #congress_pat = re.compile(r'<h4>(.*?)</h4>')
-        #O = re.findall(congress_pat, FData)
 
-		#经过多次尝试我发现这个div下的标签基本一样，除了文本正则基本没有办法摘出来。好在网页平均输出20个解密文件和相对固定的文件名，我们使用了两个列表p,q来对应储存。
-        #congress_pat2 = re.compile(r'the president&#039;s(.*?)</a></h4>') 你之后就会明白为什么不用这个。。。
-		congress_pat2 = re.compile(r'document/\d+(.*?)</a></h4>')
-        p= re.findall(congress_pat2, FData)
-        #p.insert(0,'null')
+    imonth = month
+    if month == '10':
+        print(month)
+    else:
+        month = month.replace('0', '')
+        print(month)
 
-        print(len(p))
-        #print(str(p))
-        congress_pat3 = re.compile(r'png" /> <a href="(.*?)" type="application/pdf')
-        q = re.findall(congress_pat3, FData)
-        q.pop(0) #由于每一页都有其授权发布的那一个pdf文件，因此我们必须在文件列表中删去它
-        #p.remove('https://www.cia.gov/readingroom/docs/pdb%20cm%20final%20kennedy%20and%20johnson_public%208%20sep%202015.pdf') 失败的删除尝试，don't know why
-        print(len(q))
-        #print(str(q))
-		
-		#下一步就是对应下载
-        for j in range(0, 20):
-            s = requests.session()
-            x = q[j]
-            r = requests.get(str(x))
-            y = p[j]
-		
-            with open("file" + "/" + str(y) + ".pdf", "wb") as f:
-                try:
-                    f.write(r.content)
-                    f.close()
-                    print(str(y), str(x))
-				except Exception:
-					print(y, "出现错误11111111111111111111111111")
-            s.keep_alive = False
-            print( str(y) + "done")
+    idate=date
+    if date[0] == '0':
+        date = date.replace('0', '')
 
-```
-
-所有的曲线救国都是因为踩了坑，要正确获取iframe的高度，iframe还要缩放。
-
-```markdown
-import os
-
-# 输入文件夹地址
-path = "C:/Users/Bachelor/final/special2/special"
-files = os.listdir(path)
-
-# 输出所有文件名，只是为了看一下
-for file in files:
+    with open(path2 + "/" + file + '.md', "w", encoding="utf-8") as f:
+        f.write("---\n")
+        f.write("title: %s\n" %file)
+        f.write("date: %s\n" %fdate )
+        f.write("author: CIA \n")
+        f.write("tags: \n")
+        f.write("- %s\n" %year)
+        f.write("- %s-%s\n" % (year,imonth ))
+        #f.write("- %s-%s-%s\n" % (year, imonth, idate))
+        f.write("- dailybrief\n")
+        f.write("featuredImagePreview: '/agency/CIA.png'\n")
+        f.write("---\n\n\n")
+        idate=date.replace('0','')
+        f.write("此情报简报于%s年%s月%s日被递交给时任美国总统\n\n" %(year,month,date))
+        f.write("Presidential Daily Brief On %s/%s/%s\n\n" % (year, imonth, idate))
+        f.write("<!--more-->\n\n")
+        filepath = '/CIA/' + file + '.html'
+        f.write("<div id=\"over\" style=\"width:100%; overflow:hidden\"> <iframe id=\"sFrame\" name=\"sFrame\" frameborder=\"no\" border=\"0\"  allowfullscreen marginwidth=\"0\" scrolling=\"no\" src = \" {} \"  style = \" position:absulute; width: 806px; top: 300;\" > </iframe> </div>".format(filepath))
+        f.close()
     print(file)
 
-# 获取旧名和新名
-i = 0
-for file in files:
-    # old 旧名称的信息
-    old = path + os.sep + files[i]
-    i += 1
-	c = file.replace('intelligence', '') #相信我你要做很多这种处理
-    c = c.replace('daily brief', '')
-	
-```
-恭喜你，最后终于来到时间了。
 
+
+
+```
+
+所有的曲线救国都是因为踩了坑，要正确获取iframe的高度，iframe还要缩放。所以服务端的js代码如下
 
 ```markdown
-#你要用上一段代码把空格变成-，这样你得到了一大堆这样命名的文件”17-april-1967“，终于可以进行最后一步了
-for file in files:
-    # old 旧名称的信息
-    old = path + os.sep + files[i]
-    # new是新名称的信息，这里的操作是删除了最前面的不同的简报名称，比如checklist 和daily report，最神奇的还有几篇特殊报告。这些报告会导致程序的命名出错。所以你会发现最后几步尤其难以完成。
-    file = file.rstrip('.pdf')
-    file = file.split('-')[2] + '-'+file.split('-')[1] +'-'+ file.split('-')[0]+'.pdf'
-    a=file.split('-')[2]
-    b=file.split('-')[1]
-    c=file.split('-')[0]
-    print(file,a,b,c,'.pdf')
-    new = path + os.sep + file
-    #new = "C://-10" + os.sep + file[8:]
-    #re.sub(r'\d{6}|\s', '', str(i))
-    # 新旧替换
-    i += 1
-    try:
-        os.rename(old, new)
-        print(i,file)
-        file=''
-    except Exception:
-        print(file, "出现错误11111111111111111111")
-        file = ''
+
+    (function() {
+
+        function run() {
+            // when the main frame has already been loaded, the check its height
+			iframe = document.getElementById('sFrame'),
+			over = document.getElementById('over'),
+			iframe.height=iframe.contentWindow.document.documentElement.scrollHeight;
+			let x = (screen.width-16) / 806;			
+			if (screen.width<822 )
+			{			
+			let y=iframe.contentWindow.document.documentElement.scrollHeight;
+		    iframe.style.transformOrigin='0 0';
+			iframe.style.transform = `scale(${x})`;	
+			let h = y*x;	
+			over.style.height=h +'px';
+			}				
+            setTimeout(run, 200);
+			
+        }
+        run();
+    })();
 
 	
+```
+恭喜你，最后终于来到时间了，移动端也已经适配了。
+
+最后一步是pdf的空白问题，这个需要更改pdf的宽度，目前还没有发现好的实现方法。
+```markdown
+
+
+
 ```
 
 
