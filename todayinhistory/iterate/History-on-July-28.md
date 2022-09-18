@@ -1,0 +1,18 @@
+---
+title: History on July 28
+date: 2022-07-28
+author: Qiushi 
+tags: 
+- 07-28
+- 2022-07
+- todayinhistory
+featuredImagePreview: '/img/icon.png'
+---
+
+
+历史上的7月28日，
+
+July 28 in history, 
+
+<!--more-->
+

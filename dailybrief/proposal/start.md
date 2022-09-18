@@ -4,7 +4,7 @@ author: Bachelor
 date: 2022-09-10
 
 featuredImagePreview: "/agency/CIA.png"
-
+TocOpen: ture
 categories:
 - North-America
 tags:
@@ -146,7 +146,7 @@ for file in files:
     c=file.split('-')[0]
     print(file,a,b,c,'.pdf')
     new = path + os.sep + file
-    #new = "E://音乐//武林外传//1-10" + os.sep + file[8:]
+    #new = "C://-10" + os.sep + file[8:]
     #re.sub(r'\d{6}|\s', '', str(i))
     # 新旧替换
     i += 1
