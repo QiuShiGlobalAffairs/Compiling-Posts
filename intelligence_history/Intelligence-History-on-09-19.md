@@ -5,7 +5,7 @@ author: Qiushi
 tags: 
 - 2022-09
 - 09-19
-- intelligence history
+- intelligence_history
 featuredImagePreview: '/img/icon.png'
 ---
 
