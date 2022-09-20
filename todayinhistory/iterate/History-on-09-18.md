@@ -6,9 +6,15 @@ tags:
 - 09-18
 - 2022-09
 - todayinhistory
-featuredImagePreview: 'https://user-images.githubusercontent.com/23712473/190871208-f2b0a191-c19b-4132-9895-8cd88763d1c2.png'
+featuredImagePreview: '/img/icon.png'
 ---
 
+
+历史上的9月18日，
+
+September 18 in history, 
+
+<!--more-->
 
 历史上的9月18日，
 
