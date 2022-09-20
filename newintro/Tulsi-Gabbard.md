@@ -10,6 +10,7 @@ categories:
 tags:
 - United States
 - newintro
+- Tulsi-Gabbard
 ---
 
 前几年关注美国国内辩论的时候观察到的还未崛起的新秀。
