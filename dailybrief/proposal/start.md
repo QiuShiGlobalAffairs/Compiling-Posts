@@ -2,7 +2,8 @@
 title: CIA文件爬取，正则，可视化处理
 author: Bachelor
 date: 2022-09-10
-
+type: done
+authorLink: "/bachelor"
 featuredImagePreview: "/agency/CIA.png"
 TocOpen: ture
 categories:

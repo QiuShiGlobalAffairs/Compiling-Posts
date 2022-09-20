@@ -7,6 +7,8 @@ categories:
 tags:
 - France
 - Politics-Education
+type: "done"
+authorLink: "/porte-quoi"
 ---
 
 SNU: the New Nationalist Conscript   

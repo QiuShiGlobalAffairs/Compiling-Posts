@@ -1,13 +1,17 @@
 ---
 title: South African State Capture 南非前总统Zuma腐败案
 date: 2022-09-03
+type: "done"
 author: Bosman
 categories:
 - Africa
 tags: 
 - Corruption
 - Soutth Africa
-cover: 'https://media.vanityfair.com/photos/5c7993e3faa84649abb66b6c/master/pass/Guptas-march-2019-lede.jpg'
+authorLink: "/bosman"
+featuredImagePreview: 'https://media.vanityfair.com/photos/5c7993e3faa84649abb66b6c/master/pass/Guptas-march-2019-lede.jpg'
+
+
 ---
 
 

@@ -16,11 +16,6 @@ September 18 in history,
 
 <!--more-->
 
-历史上的9月18日，
-
-September 18 in history, 
-
-<!--more-->
 
 # 布衣天下
 

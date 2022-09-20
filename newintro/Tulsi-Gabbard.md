@@ -3,14 +3,17 @@ title: Tulsi Gabbard 美国非建制派观察
 author: Bachelor
 date: 2022-09-08
 description: "每日人物观察"
-images: []
-
+authorLink: "/tags/tulsi-gabbard"
+type: "done"
 categories:
 - North-America
 tags:
 - United States
 - newintro
 - Tulsi-Gabbard
+featuredImagePreview: "/img/tulsi-gabbard.jpg"
+
+
 ---
 
 前几年关注美国国内辩论的时候观察到的还未崛起的新秀。

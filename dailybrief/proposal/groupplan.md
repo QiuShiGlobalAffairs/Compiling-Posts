@@ -2,7 +2,7 @@
 title: '策划：情报历史上的今日'
 date: 2022-09-15
 author: Qiushi
-
+authorLink: "/qiushi"
 tags: 
 - Qiushi
 - dailybrief

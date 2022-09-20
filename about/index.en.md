@@ -3,8 +3,7 @@ title: "About Qiushi"
 date: 2022-09-02T11:04:49+08:00
 draft: false
 description: "About Qiushi"
-images: ["/Apple-Devices-Preview.png"]
-
+author: Qiushi
 lightgallery: true
 
 math:

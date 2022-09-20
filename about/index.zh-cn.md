@@ -3,8 +3,8 @@ title: "球事工作方案"
 date: 2019-08-02T11:04:49+08:00
 draft: false
 description: "球事工作方案"
-images: ["/Apple-Devices-Preview.png"]
-
+type: "documents"
+authorLink: "/tags/qiushi"
 lightgallery: true
 
 math:
