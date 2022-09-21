@@ -4,7 +4,7 @@ author: Bachelor
 date: 2022-09-08
 description: "每日人物观察"
 authorLink: "/tags/tulsi-gabbard"
-type: "done"
+type: posts
 categories:
 - North-America
 tags:

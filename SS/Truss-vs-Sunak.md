@@ -4,8 +4,8 @@ author: S.S.
 date: 2022-09-18
 categories:
 - Europe-Major
-tags:
-- Britain
+countries:
+- United-Kingdom
 ---
 
 新任英国首相Lis Truss在本月六号发表了作为首相的第一次演讲。近两分钟的客套之后，Truss提出了她最重要的执政目标：削减企业税收以鼓励企业在英国的投资，试图通过增加投资减缓通胀来恢复英国经济活力，使英国能在疫情和能源危机的双重压力下平稳度过难关。[1]

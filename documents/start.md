@@ -2,7 +2,8 @@
 title: pdf移动端适配，转base64图片，可视化处理
 author: Bachelor
 date: 2022-09-10
-
+authorLink: "/bachelor"
+type: posts
 featuredImagePreview: "/agency/CIA.png"
 TocOpen: ture
 tags:
@@ -29,7 +30,7 @@ https://www.cia.gov/readingroom/collection/presidents-daily-brief-1961-1969 from
 
 路径：pdf到html，到md的iframe，pc端的高度适配（同源问题），再到移动端的js适配（div外套缩放）。
 
-第一步是pdf转html
+## 第一步是pdf转html
 ```markdown
 import os
 import subprocess
@@ -54,7 +55,7 @@ for j in range(3000, 4000):
     print(j, file)
 
 ```
-第二步是在md用iframe中读取这些网页
+## 第二步是在md用iframe中读取这些网页
 
 ```markdown
 
@@ -117,18 +118,16 @@ for j in range(0, 4865):
         idate=date.replace('0','')
         f.write("此情报简报于%s年%s月%s日被递交给时任美国总统\n\n" %(year,month,date))
         f.write("Presidential Daily Brief On %s/%s/%s\n\n" % (year, imonth, idate))
-        f.write("<!--more-->\n\n")
         filepath = '/CIA/' + file + '.html'
+		
         f.write("<div id=\"over\" style=\"width:100%; overflow:hidden\"> <iframe id=\"sFrame\" name=\"sFrame\" frameborder=\"no\" border=\"0\"  allowfullscreen marginwidth=\"0\" scrolling=\"no\" src = \" {} \"  style = \" position:absulute; width: 806px; top: 300;\" > </iframe> </div>".format(filepath))
         f.close()
     print(file)
 
-
-
-
 ```
 
-所有的曲线救国都是因为踩了坑，要正确获取iframe的高度，iframe还要缩放。所以服务端的js代码如下
+## 要正确获取iframe的高度，iframe还要缩放。所以服务端的js代码如下
+所有的曲线救国都是因为踩了坑，
 
 ```markdown
 
@@ -156,14 +155,57 @@ for j in range(0, 4865):
 
 	
 ```
-恭喜你，最后终于来到时间了，移动端也已经适配了。
+## 恭喜你，移动端也已经适配了。但是我们发现js初始启动时有时不能识别scrollHeight,所以我们要使用try，防止js中断。
 
-最后一步是pdf的空白问题，这个需要更改pdf的宽度，目前还没有发现好的实现方法。
 ```markdown
+    (function() {
+
+        function run() {
+            // when the main frame has already been loaded, the check its height
+			
+			try{
+			over = document.getElementById('over'),
+			iframe = document.getElementById('sFrame'),
+			iframe.height=iframe.contentWindow.document.documentElement.scrollHeight;			
+			}catch(e){
+				console.log(e); 
+				}			
+			let x = (screen.width-16) / 806;			
+			if (screen.width<822 )
+			{	
+					
+			try{
+			let y=iframe.contentWindow.document.documentElement.scrollHeight;
+		    iframe.style.transformOrigin='0 0';
+			iframe.style.transform = `scale(${x})`;	
+			let h = y*x;	
+			over.style.height=h +'px';
+			
+				}catch(e){
+				console.log(e); 
+				}
+
+
+			}				
+            setTimeout(run, 200);
+			
+        }
+        run();
+    })();
+
+
+
+
+
+
+
 
 
 
 ```
+
+## 最后一步是pdf的空白问题，这个需要更改pdf的宽度，目前还没有发现好的实现方法。
+
 
 
 <p align="right">Communication from Bachelor.</p> 

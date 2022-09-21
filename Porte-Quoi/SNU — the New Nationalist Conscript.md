@@ -7,7 +7,7 @@ categories:
 tags:
 - France
 - Politics-Education
-type: "done"
+type: posts
 authorLink: "/porte-quoi"
 ---
 
