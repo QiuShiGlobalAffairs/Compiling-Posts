@@ -206,8 +206,57 @@ for j in range(0, 4865):
 
 ```
 
-## 最后一步是pdf的空白问题，这个需要更改pdf的宽度，目前还没有发现好的实现方法。
+## 最后一步是pdf的空白问题，这个需要更改pdf的宽度，我们使用pdf-crop-margins这个包。
 
+
+```markdown
+
+import os
+import subprocess
+
+# for root, dirs, files in os.walk(path, topdown=False):
+# _path = os.path.join(root, name)
+#path = "./md"
+path = 'C:/Users/Bachelor/OneDrive/bill/pdf2html/print/'
+files = os.listdir(path)
+print(files)
+for j in range(4870, 2375, -1):
+    file = files[j]
+    print(j, file)
+
+
+    # sh = r'pdfcrop --margins '  # 这里r可以可以不管空格和中文字符的烦恼
+    # # proc=subprocess.Popen(sh, stdin=subprocess.PIPE)
+    # #a = './pdf2html/print/' + file
+    # a = path + file
+    # print(a)
+    # #b=  '--dest-dir ./pdf2html/out/'
+    # # print(a)
+    # p = subprocess.Popen(sh + '\'0 0 -200 0\' --clip ' + a + ' ' + file)
+    # print(p.communicate()[0])
+    # print(j, file)
+    # sh = r'pdf-crop-margins '  # 这里r可以可以不管空格和中文字符的烦恼
+    # # proc=subprocess.Popen(sh, stdin=subprocess.PIPE)
+    # #a = './pdf2html/print/' + file
+    # a =  'new' + file
+
+    sh = r'pdf-crop-margins '  # 这里r可以可以不管空格和中文字符的烦恼
+    # proc=subprocess.Popen(sh, stdin=subprocess.PIPE)
+    ifile = path + file
+
+
+    #b=  '--dest-dir ./pdf2html/out/'
+    # print(a)
+    com = sh + ' -u -ap4 0 0 120 0 ' + ifile + ' -o ' + file
+    print(com)
+    p = subprocess.Popen(com)
+    print(p.communicate()[0])
+    print(j, file)
+
+
+
+
+```
 
 
 <p align="right">Communication from Bachelor.</p> 
