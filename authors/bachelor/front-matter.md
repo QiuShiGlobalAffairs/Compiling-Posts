@@ -1,37 +1,21 @@
 ---
-title: CIA文件爬取，正则，可视化处理
+title: 前置参数批量修改
 author: Bachelor
-date: 2022-09-10
-type: posts
-authorLink: "/bachelor"
+date: 2022-09-23
+authorLink: "/authors/bachelor"
 featuredImagePreview: "/agency/CIA.png"
 TocOpen: ture
-categories:
-- North-America
 tags:
-- United States
-- dailybrief
+- documents
+multitype: [documents]
 ---
-每日简报的策划,
 
-以下是美国总统简报的公开检索途径，
+在架构调整时，我们的posts前置变量总是在不断变化，而同时这些posts又已经在生产环境之下，受过修改。因此，无损迁移posts，成为了本文的主题。
+<!--more-->
 
-https://nsarchive2.gwu.edu/NSAEBB/NSAEBB116/index.htm
+# 关于学习材料的爬取，我们主要使用python
 
-https://www.cia.gov/readingroom/collection/presidents-daily-brief-1969-1977 from the Richard Nixon and Gerald Ford administrations.
-
-https://www.cia.gov/readingroom/collection/presidents-daily-brief-1961-1969 from the Kennedy and Johnson administrations.
-
-
-情报简报是新闻简报的延申，下面我们将参照每日简报组织自己的活动，以立长期规划。每天本组的产出
-可以分两步，第一步做公开信源的新闻摘要，同时开展对美国总统简报每日的学习。在这部分学习中不断加强对他国国情的认识,以及提升自己识别重要情报的能力。
-
-在国别情报会之前，我们可能先要形成每日新闻简报，然后是同志们一起交流之后写成的每日情报简报，在这个过程中，如果能形成国别的专题讨论，那也算是国别情报组的雏形了。
-
-
-关于学习材料的爬取，我们主要使用python
-
-第一步是下载网页
+## 第一步是下载网页
 ```markdown
 import requests
 import os
@@ -51,7 +35,7 @@ for j in range(0,124):
             print( str(j) + "fail")
     s.keep_alive = False
 ```
-第二步是从这些网页中提取到文件链接和其日期(从文件名中获取)
+## 第二步是从这些网页中提取到文件链接和其日期(从文件名中获取)
 
 ```markdown
 import requests
@@ -108,13 +92,13 @@ for file in range(13,124):
 ```
 
 所有的曲线救国都是因为踩了坑，比如文件名，有三种报告也就算了，居然还有特殊报告。。。
-下面的就是正则文件名（为了以后进行格式化，进行标准时间处理）
+## 下面的就是正则文件名（为了以后进行格式化，进行标准时间处理）
 
 ```markdown
 import os
 
 # 输入文件夹地址
-path = "C:/Users/Bachelor/final/special2/special"
+path = "C:/authors/Bachelor/final/special2/special"
 files = os.listdir(path)
 
 # 输出所有文件名，只是为了看一下
@@ -131,7 +115,7 @@ for file in files:
     c = c.replace('daily brief', '')
 	
 ```
-恭喜你，最后终于来到时间了。
+## 恭喜你，最后终于来到时间了。
 
 
 ```markdown

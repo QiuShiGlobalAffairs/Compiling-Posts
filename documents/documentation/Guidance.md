@@ -22,27 +22,27 @@ math:
 5、File type for submission  
 6、Seek clarification  
 
-# Suggestions for choosing a topic
+## Suggestions for choosing a topic
 
 New writers can choose some social events that can be observed in everyday life to start with, and by starting with a specific event, an analysis can be made as to which policy leads to this result, or which failed policy should be responsible for this.
 
 
 Another simple topic to pick: a summary of the various opinions in the public sphere on controversial issues, and an analysis of the positions of differnt political forces.
 
-# Hand in your writing plan
+## Hand in your writing plan
 
 
 Your country of interest; Your topic (you can change it later).
 Your specific delivery date. your and anonym and your email.
 
-##  Example:
+###  Example:
 
 Italy, digital populism, 31/08/2022, Bachelor, <a href="mailto:intlcommu@outlook.com">intlcommu@outlook.com</a>
 
 
-# Writing Principles
+## Writing Principles
 
-## Principle of factuality
+### Principle of factuality
 
 
 Correct disclosure of facts is a fundamental principle of journalism. We should always strive to be accurate, provide all relevant facts in our possession, and ensure that those facts are verified. When we cannot substantiate the information, we should explain accordingly. Take the following sentences as an example:
@@ -54,7 +54,7 @@ Some corrupt officials are arrested by the police.
 Some officials suspected of corruption are detained by the police for further investigation.
 
 
-## Principle of objectivity
+### Principle of objectivity
 
 
 We recommend using objectified sentences to describe news and intelligence. This is for two reasons: firstly, objective writing itself keeps our own minds clear, minimizes the tendency to be over-optimistic or over-pessimistic and forces us to be as rational as possible, and secondly, objectivity attracts a neutral readership, so that many people do not simply ignore our analysis out of prejudice against communist ideology. Moreover, objectifying statements does not actually prevent the implicit expression of our subjective tendencies. It is possible to lead a neutral readership to accept our pre-determined position through an apparently objective analysis.
@@ -69,22 +69,22 @@ non-objective description
 …… The household registration system must be eliminated first, otherwise a universal basic income system cannot benefit all people.
 
 
-# Citations requirement
+## Citations requirement
 
 You need to cite the source for others to do fact check	
 We encourage you to cite in APA style
 
 
-# File type for submission 
+#3 File type for submission 
 We strongly recommend you to use markdown to write you work!  Our official email is <a href="mailto:intlcommu@outlook.com">intlcommu@outlook.com</a>.
 
 
-# Seek clarification
+## Seek clarification
 
 If you encounter any doubts in your writing, you can communicate with the Qiushi editorial council. If you have any question, you can ask directly on our discord.    
 
 
 
-<p align="right">Contribution from Qiushi‘s Rotating Editors-In-Chief，Bachelor，Volin1781.</.</p> 
+<p align="right">Contribution from Qiushi‘s Rotating Editors-In-Chief，Bachelor，Violin1781.</.</p> 
 
 
