@@ -2,19 +2,29 @@
 title: Intelligence History on July 19
 date: 2022-07-19
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-07
 - 07-19
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的7月19日，这些情报被递交给时任美国总统
-
 July 19 in history, these intelligence were sent to the US president
 
+情报历史上的7月19日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1961 July 19](/dailybrief/1961-07-19)   
 [Intelligence History on 1962 July 19](/dailybrief/1962-07-19)   

@@ -2,19 +2,29 @@
 title: Intelligence History on September 16
 date: 2022-09-16
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-09
 - 09-16
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的9月16日，这些情报被递交给时任美国总统
-
 September 16 in history, these intelligence were sent to the US president
 
+情报历史上的9月16日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1961 September 16](/dailybrief/1961-09-16)   
 [Intelligence History on 1963 September 16](/dailybrief/1963-09-16)   

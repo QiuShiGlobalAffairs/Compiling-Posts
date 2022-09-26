@@ -2,7 +2,7 @@
 title: Truss-vs-Sunak
 author: S.S.
 date: 2022-09-18
-categories:
+regions:
 - Europe-Major
 countries:
 - United-Kingdom

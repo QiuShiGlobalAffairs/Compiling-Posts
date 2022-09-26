@@ -2,19 +2,29 @@
 title: Intelligence History on May 29
 date: 2022-05-29
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-05
 - 05-29
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的5月29日，这些情报被递交给时任美国总统
-
 May 29 in history, these intelligence were sent to the US president
 
+情报历史上的5月29日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1962 May 29](/dailybrief/1962-05-29)   
 [Intelligence History on 1963 May 29](/dailybrief/1963-05-29)   

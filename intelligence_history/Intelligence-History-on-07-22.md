@@ -2,19 +2,29 @@
 title: Intelligence History on July 22
 date: 2022-07-22
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-07
 - 07-22
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的7月22日，这些情报被递交给时任美国总统
-
 July 22 in history, these intelligence were sent to the US president
 
+情报历史上的7月22日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1961 July 22](/dailybrief/1961-07-22)   
 [Intelligence History on 1963 July 22](/dailybrief/1963-07-22)   

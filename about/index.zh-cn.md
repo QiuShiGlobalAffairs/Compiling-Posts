@@ -6,7 +6,9 @@ description: "球事工作方案"
 type: "documents"
 authorLink: "/tags/qiushi"
 lightgallery: true
-
+multitype:
+- qiushi
+- documents
 math:
   enable: true
 ---

@@ -2,19 +2,29 @@
 title: Intelligence History on July 5
 date: 2022-07-05
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-07
 - 07-05
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的7月5日，这些情报被递交给时任美国总统
-
 July 5 in history, these intelligence were sent to the US president
 
+情报历史上的7月5日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1961 July 5](/dailybrief/1961-07-05)   
 [Intelligence History on 1962 July 5](/dailybrief/1962-07-05)   

@@ -5,8 +5,8 @@ author: Qiushi
 weight: 1
 tags: 
 - Qiushi
-- 04-04
 - today in history
+
 featuredImagePreview: '/img/icon.png'
 ---
 

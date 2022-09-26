@@ -2,19 +2,29 @@
 title: Intelligence History on April 18
 date: 2022-04-18
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-04
 - 04-18
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的4月18日，这些情报被递交给时任美国总统
-
 April 18 in history, these intelligence were sent to the US president
 
+情报历史上的4月18日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1962 April 18](/dailybrief/1962-04-18)   
 [Intelligence History on 1963 April 18](/dailybrief/1963-04-18)   

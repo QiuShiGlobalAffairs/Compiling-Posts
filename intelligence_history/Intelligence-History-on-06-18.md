@@ -2,19 +2,29 @@
 title: Intelligence History on June 18
 date: 2022-06-18
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-06
 - 06-18
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的6月18日，这些情报被递交给时任美国总统
-
 June 18 in history, these intelligence were sent to the US president
 
+情报历史上的6月18日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1962 June 18](/dailybrief/1962-06-18)   
 [Intelligence History on 1963 June 18](/dailybrief/1963-06-18)   

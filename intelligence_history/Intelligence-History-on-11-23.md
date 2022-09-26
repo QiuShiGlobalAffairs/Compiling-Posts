@@ -2,19 +2,29 @@
 title: Intelligence History on November 23
 date: 2022-11-23
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-11
 - 11-23
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的11月23日，这些情报被递交给时任美国总统
-
 November 23 in history, these intelligence were sent to the US president
 
+情报历史上的11月23日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1962 November 23](/dailybrief/1962-11-23)   
 [Intelligence History on 1963 November 23](/dailybrief/1963-11-23)   

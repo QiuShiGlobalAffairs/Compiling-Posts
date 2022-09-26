@@ -6,6 +6,10 @@ authorLink: "/tags/qiushi"
 tags: 
 - Qiushi
 - dailybrief
+tags: ["Dailybrief"]
+
+multitype:
+- dailybrief
 
 featuredImagePreview: '/agency/CIA.png'
 ---

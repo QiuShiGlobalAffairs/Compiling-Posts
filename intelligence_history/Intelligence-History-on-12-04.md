@@ -2,19 +2,29 @@
 title: Intelligence History on December 4
 date: 2022-12-04
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-12
 - 12-04
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的12月4日，这些情报被递交给时任美国总统
-
 December 4 in history, these intelligence were sent to the US president
 
+情报历史上的12月4日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1961 December 4](/dailybrief/1961-12-04)   
 [Intelligence History on 1962 December 4](/dailybrief/1962-12-04)   

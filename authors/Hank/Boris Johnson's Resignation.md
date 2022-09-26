@@ -2,7 +2,7 @@
 title: After Boris Johnson's Resignation 
 date: 2022-09-03
 author: Hank
-categories:
+regions:
 - Europe-Major
 tags: 
 - Britain

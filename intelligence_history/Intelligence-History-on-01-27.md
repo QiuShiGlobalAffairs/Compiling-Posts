@@ -2,19 +2,29 @@
 title: Intelligence History on January 27
 date: 2022-01-27
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-01
 - 01-27
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的1月27日，这些情报被递交给时任美国总统
-
 January 27 in history, these intelligence were sent to the US president
 
+情报历史上的1月27日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1962 January 27](/dailybrief/1962-01-27)   
 [Intelligence History on 1964 January 27](/dailybrief/1964-01-27)   

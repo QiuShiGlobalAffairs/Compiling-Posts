@@ -2,12 +2,22 @@
 title: History on April 27
 date: 2022-04-27
 author: Qiushi 
-tags: 
-- 04-27
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-04
+- 04-27
+multitype: 
+- qiushi
+tags: 
 - todayinhistory
 featuredImagePreview: '/img/icon.png'
 ---
+
+
+
+
+
+
 
 
 历史上的4月27日，

@@ -3,8 +3,16 @@ title: "Guidance for Writing and Submission"
 date: 2022-09-10T11:04:49+08:00
 draft: false
 description: "关于 球事"
-images: ["/Apple-Devices-Preview.png"]
+aliases:
+- /documents/documentation/guidance/
 
+
+author: Qiushi
+authorLink: "/authors/qiushi"
+lightgallery: true
+weight: 1
+multitype: 
+- documents
 lightgallery: true
 tags:
 - documents
@@ -76,7 +84,7 @@ We encourage you to cite in APA style
 
 
 #3 File type for submission 
-We strongly recommend you to use markdown to write you work!  Our official email is <a href="mailto:intlcommu@outlook.com">intlcommu@outlook.com</a>.
+We strongly recommend you to use [markdown](/documents/markdown/) to write you work!  Our official email is <a href="mailto:intlcommu@outlook.com">intlcommu@outlook.com</a>.
 
 
 ## Seek clarification

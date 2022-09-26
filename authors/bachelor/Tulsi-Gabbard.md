@@ -3,7 +3,7 @@ title: Tulsi Gabbard 美国非建制派观察
 author: Bachelor
 date: 2022-09-08
 description: "每日人物观察"
-authorLink: "/tags/tulsi-gabbard"
+authorLink: "/authors/bachelor"
 type: posts
 categories:
 - North-America
@@ -12,7 +12,10 @@ tags:
 - newintro
 - Tulsi-Gabbard
 featuredImagePreview: "/img/tulsi-gabbard.jpg"
-
+multitype:
+- newintro
+aliases:
+- /newintro/tulsi-gabbard
 
 ---
 

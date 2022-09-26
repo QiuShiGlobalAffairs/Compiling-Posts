@@ -2,19 +2,29 @@
 title: Intelligence History on August 6
 date: 2022-08-06
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-08
 - 08-06
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的8月6日，这些情报被递交给时任美国总统
-
 August 6 in history, these intelligence were sent to the US president
 
+情报历史上的8月6日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1961 August 6](/dailybrief/1961-08-06)   
 [Intelligence History on 1962 August 6](/dailybrief/1962-08-06)   

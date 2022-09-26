@@ -6,7 +6,7 @@ date: 2022-09-07T16:30:05+08:00
 lastmod: 
 draft: false
 author: "Bachelor"
-authorLink: "/bachelor"
+authorLink: "/authors/bachelor"
 description: "每日简报的策划,组织和可持续"
 images: []
 resources:
@@ -15,6 +15,8 @@ resources:
 
 tags: ["Dailybrief"]
 
+multitype:
+- dailybrief
 
 lightgallery: true
 

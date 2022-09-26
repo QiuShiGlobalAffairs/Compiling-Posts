@@ -2,19 +2,29 @@
 title: Intelligence History on October 25
 date: 2022-10-25
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-10
 - 10-25
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的10月25日，这些情报被递交给时任美国总统
-
 October 25 in history, these intelligence were sent to the US president
 
+情报历史上的10月25日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1961 October 25](/dailybrief/1961-10-25)   
 [Intelligence History on 1962 October 25](/dailybrief/1962-10-25)   

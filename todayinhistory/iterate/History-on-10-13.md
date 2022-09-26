@@ -2,12 +2,22 @@
 title: History on October 13
 date: 2022-10-13
 author: Qiushi 
-tags: 
-- 10-13
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-10
+- 10-13
+multitype: 
+- qiushi
+tags: 
 - todayinhistory
 featuredImagePreview: '/img/icon.png'
 ---
+
+
+
+
+
+
 
 
 历史上的10月13日，

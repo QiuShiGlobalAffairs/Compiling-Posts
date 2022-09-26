@@ -4,7 +4,7 @@ author: Bachelor
 date: 2022-08-31
 authorLink: "/authors/bachelor"
 type: posts
-categories:
+regions:
 - East-Asia
 tags:
 - China

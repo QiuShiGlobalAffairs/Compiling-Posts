@@ -2,19 +2,29 @@
 title: Intelligence History on December 15
 date: 2022-12-15
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-12
 - 12-15
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的12月15日，这些情报被递交给时任美国总统
-
 December 15 in history, these intelligence were sent to the US president
 
+情报历史上的12月15日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1961 December 15](/dailybrief/1961-12-15)   
 [Intelligence History on 1962 December 15](/dailybrief/1962-12-15)   

@@ -2,7 +2,7 @@
 title:  SNU, the New Nationalist Conscript  
 author: Porte Quoi
 date: 2022-08-31
-categories:
+regions:
 - Europe-major
 tags:
 - France

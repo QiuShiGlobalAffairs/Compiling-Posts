@@ -2,19 +2,29 @@
 title: Intelligence History on February 17
 date: 2022-02-17
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-02
 - 02-17
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的2月17日，这些情报被递交给时任美国总统
-
 February 17 in history, these intelligence were sent to the US president
 
+情报历史上的2月17日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1962 February 17](/dailybrief/1962-02-17)   
 [Intelligence History on 1964 February 17](/dailybrief/1964-02-17)   

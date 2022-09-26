@@ -2,19 +2,29 @@
 title: Intelligence History on July 2
 date: 2022-07-02
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-07
 - 07-02
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的7月2日，这些情报被递交给时任美国总统
-
 July 2 in history, these intelligence were sent to the US president
 
+情报历史上的7月2日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1962 July 2](/dailybrief/1962-07-02)   
 [Intelligence History on 1963 July 2](/dailybrief/1963-07-02)   

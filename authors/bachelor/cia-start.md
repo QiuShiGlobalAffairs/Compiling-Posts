@@ -6,7 +6,7 @@ type: posts
 authorLink: "/authors/bachelor"
 featuredImagePreview: "/agency/CIA.png"
 TocOpen: ture
-categories:
+regions:
 - North-America
 tags:
 - United States

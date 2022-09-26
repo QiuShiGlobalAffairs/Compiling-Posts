@@ -2,19 +2,29 @@
 title: Intelligence History on April 5
 date: 2022-04-05
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-04
 - 04-05
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的4月5日，这些情报被递交给时任美国总统
-
 April 5 in history, these intelligence were sent to the US president
 
+情报历史上的4月5日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1962 April 5](/dailybrief/1962-04-05)   
 [Intelligence History on 1963 April 5](/dailybrief/1963-04-05)   

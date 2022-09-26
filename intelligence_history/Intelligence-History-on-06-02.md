@@ -2,19 +2,29 @@
 title: Intelligence History on June 2
 date: 2022-06-02
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-06
 - 06-02
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的6月2日，这些情报被递交给时任美国总统
-
 June 2 in history, these intelligence were sent to the US president
 
+情报历史上的6月2日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1962 June 2](/dailybrief/1962-06-02)   
 [Intelligence History on 1964 June 2](/dailybrief/1964-06-02)   

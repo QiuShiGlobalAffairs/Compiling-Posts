@@ -2,12 +2,22 @@
 title: History on August 30
 date: 2022-08-30
 author: Qiushi 
-tags: 
-- 08-30
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-08
+- 08-30
+multitype: 
+- qiushi
+tags: 
 - todayinhistory
 featuredImagePreview: '/img/icon.png'
 ---
+
+
+
+
+
+
 
 
 历史上的8月30日，

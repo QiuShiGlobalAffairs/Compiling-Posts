@@ -2,19 +2,29 @@
 title: Intelligence History on March 15
 date: 2022-03-15
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-03
 - 03-15
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的3月15日，这些情报被递交给时任美国总统
-
 March 15 in history, these intelligence were sent to the US president
 
+情报历史上的3月15日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1962 March 15](/dailybrief/1962-03-15)   
 [Intelligence History on 1963 March 15](/dailybrief/1963-03-15)   

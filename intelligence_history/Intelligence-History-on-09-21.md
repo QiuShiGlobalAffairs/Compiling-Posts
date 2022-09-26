@@ -2,19 +2,29 @@
 title: Intelligence History on September 21
 date: 2022-09-21
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-09
 - 09-21
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的9月21日，这些情报被递交给时任美国总统
-
 September 21 in history, these intelligence were sent to the US president
 
+情报历史上的9月21日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1961 September 21](/dailybrief/1961-09-21)   
 [Intelligence History on 1962 September 21](/dailybrief/1962-09-21)   

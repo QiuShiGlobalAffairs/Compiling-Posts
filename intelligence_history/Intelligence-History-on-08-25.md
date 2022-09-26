@@ -2,19 +2,29 @@
 title: Intelligence History on August 25
 date: 2022-08-25
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-08
 - 08-25
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的8月25日，这些情报被递交给时任美国总统
-
 August 25 in history, these intelligence were sent to the US president
 
+情报历史上的8月25日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1961 August 25](/dailybrief/1961-08-25)   
 [Intelligence History on 1962 August 25](/dailybrief/1962-08-25)   

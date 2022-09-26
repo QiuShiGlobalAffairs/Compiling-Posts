@@ -2,19 +2,29 @@
 title: Intelligence History on April 28
 date: 2022-04-28
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-04
 - 04-28
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的4月28日，这些情报被递交给时任美国总统
-
 April 28 in history, these intelligence were sent to the US president
 
+情报历史上的4月28日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1962 April 28](/dailybrief/1962-04-28)   
 [Intelligence History on 1964 April 28](/dailybrief/1964-04-28)   

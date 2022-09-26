@@ -2,19 +2,29 @@
 title: Intelligence History on November 3
 date: 2022-11-03
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-11
 - 11-03
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的11月3日，这些情报被递交给时任美国总统
-
 November 3 in history, these intelligence were sent to the US president
 
+情报历史上的11月3日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1961 November 3](/dailybrief/1961-11-03)   
 [Intelligence History on 1962 November 3](/dailybrief/1962-11-03)   

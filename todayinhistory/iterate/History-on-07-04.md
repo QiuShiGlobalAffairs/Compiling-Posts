@@ -2,12 +2,22 @@
 title: History on July 4
 date: 2022-07-04
 author: Qiushi 
-tags: 
-- 07-04
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-07
+- 07-04
+multitype: 
+- qiushi
+tags: 
 - todayinhistory
 featuredImagePreview: '/img/icon.png'
 ---
+
+
+
+
+
+
 
 
 历史上的7月4日，

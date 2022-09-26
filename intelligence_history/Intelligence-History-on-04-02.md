@@ -2,19 +2,29 @@
 title: Intelligence History on April 2
 date: 2022-04-02
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-04
 - 04-02
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的4月2日，这些情报被递交给时任美国总统
-
 April 2 in history, these intelligence were sent to the US president
 
+情报历史上的4月2日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1962 April 2](/dailybrief/1962-04-02)   
 [Intelligence History on 1963 April 2](/dailybrief/1963-04-02)   

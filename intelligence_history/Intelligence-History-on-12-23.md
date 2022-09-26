@@ -2,19 +2,29 @@
 title: Intelligence History on December 23
 date: 2022-12-23
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-12
 - 12-23
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的12月23日，这些情报被递交给时任美国总统
-
 December 23 in history, these intelligence were sent to the US president
 
+情报历史上的12月23日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1961 December 23](/dailybrief/1961-12-23)   
 [Intelligence History on 1963 December 23](/dailybrief/1963-12-23)   

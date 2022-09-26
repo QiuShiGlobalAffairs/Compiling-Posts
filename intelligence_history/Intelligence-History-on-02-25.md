@@ -2,19 +2,29 @@
 title: Intelligence History on February 25
 date: 2022-02-25
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-02
 - 02-25
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的2月25日，这些情报被递交给时任美国总统
-
 February 25 in history, these intelligence were sent to the US president
 
+情报历史上的2月25日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1963 February 25](/dailybrief/1963-02-25)   
 [Intelligence History on 1964 February 25](/dailybrief/1964-02-25)   

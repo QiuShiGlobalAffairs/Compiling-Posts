@@ -2,19 +2,29 @@
 title: Intelligence History on October 16
 date: 2022-10-16
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-10
 - 10-16
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的10月16日，这些情报被递交给时任美国总统
-
 October 16 in history, these intelligence were sent to the US president
 
+情报历史上的10月16日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1961 October 16](/dailybrief/1961-10-16)   
 [Intelligence History on 1962 October 16](/dailybrief/1962-10-16)   

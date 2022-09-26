@@ -2,12 +2,22 @@
 title: History on September 18
 date: 2022-09-18
 author: Qiushi 
-tags: 
-- 09-18
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-09
+- 09-18
+multitype: 
+- qiushi
+tags: 
 - todayinhistory
 featuredImagePreview: '/img/icon.png'
 ---
+
+
+
+
+
+
 
 
 历史上的9月18日，

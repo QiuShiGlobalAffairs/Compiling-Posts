@@ -3,7 +3,7 @@ title: South African State Capture 南非前总统Zuma腐败案
 date: 2022-09-03
 type: posts
 author: Bosman
-categories:
+regions:
 - Africa
 tags: 
 - Corruption

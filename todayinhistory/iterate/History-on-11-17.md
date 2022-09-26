@@ -2,12 +2,22 @@
 title: History on November 17
 date: 2022-11-17
 author: Qiushi 
-tags: 
-- 11-17
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-11
+- 11-17
+multitype: 
+- qiushi
+tags: 
 - todayinhistory
 featuredImagePreview: '/img/icon.png'
 ---
+
+
+
+
+
+
 
 
 历史上的11月17日，

@@ -2,19 +2,29 @@
 title: Intelligence History on September 15
 date: 2022-09-15
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-09
 - 09-15
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的9月15日，这些情报被递交给时任美国总统
-
 September 15 in history, these intelligence were sent to the US president
 
+情报历史上的9月15日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1961 September 15](/dailybrief/1961-09-15)   
 1961年9月15日，苏联愿意限制北越对美缓和，来谋求老挝的中立政府。 

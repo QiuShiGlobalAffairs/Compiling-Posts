@@ -2,19 +2,29 @@
 title: Intelligence History on May 10
 date: 2022-05-10
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-05
 - 05-10
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的5月10日，这些情报被递交给时任美国总统
-
 May 10 in history, these intelligence were sent to the US president
 
+情报历史上的5月10日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1962 May 10](/dailybrief/1962-05-10)   
 [Intelligence History on 1963 May 10](/dailybrief/1963-05-10)   

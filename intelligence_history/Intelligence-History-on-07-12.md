@@ -2,19 +2,29 @@
 title: Intelligence History on July 12
 date: 2022-07-12
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-07
 - 07-12
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的7月12日，这些情报被递交给时任美国总统
-
 July 12 in history, these intelligence were sent to the US president
 
+情报历史上的7月12日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1961 July 12](/dailybrief/1961-07-12)   
 [Intelligence History on 1962 July 12](/dailybrief/1962-07-12)   

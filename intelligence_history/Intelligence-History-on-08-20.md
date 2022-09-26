@@ -2,19 +2,29 @@
 title: Intelligence History on August 20
 date: 2022-08-20
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-08
 - 08-20
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的8月20日，这些情报被递交给时任美国总统
-
 August 20 in history, these intelligence were sent to the US president
 
+情报历史上的8月20日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1962 August 20](/dailybrief/1962-08-20)   
 [Intelligence History on 1963 August 20](/dailybrief/1963-08-20)   

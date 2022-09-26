@@ -2,19 +2,29 @@
 title: Intelligence History on September 13
 date: 2022-09-13
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-09
 - 09-13
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的9月13日，这些情报被递交给时任美国总统
-
 September 13 in history, these intelligence were sent to the US president
 
+情报历史上的9月13日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1961 September 13](/dailybrief/1961-09-13)   
 [Intelligence History on 1962 September 13](/dailybrief/1962-09-13)   

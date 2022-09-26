@@ -2,19 +2,29 @@
 title: Intelligence History on March 6
 date: 2022-03-06
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-03
 - 03-06
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的3月6日，这些情报被递交给时任美国总统
-
 March 6 in history, these intelligence were sent to the US president
 
+情报历史上的3月6日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1962 March 6](/dailybrief/1962-03-06)   
 [Intelligence History on 1963 March 6](/dailybrief/1963-03-06)   

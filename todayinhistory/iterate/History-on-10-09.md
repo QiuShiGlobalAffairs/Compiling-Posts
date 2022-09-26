@@ -2,12 +2,22 @@
 title: History on October 9
 date: 2022-10-09
 author: Qiushi 
-tags: 
-- 10-09
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-10
+- 10-09
+multitype: 
+- qiushi
+tags: 
 - todayinhistory
 featuredImagePreview: '/img/icon.png'
 ---
+
+
+
+
+
+
 
 
 历史上的10月9日，

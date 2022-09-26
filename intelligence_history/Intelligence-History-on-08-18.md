@@ -2,19 +2,29 @@
 title: Intelligence History on August 18
 date: 2022-08-18
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-08
 - 08-18
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的8月18日，这些情报被递交给时任美国总统
-
 August 18 in history, these intelligence were sent to the US president
 
+情报历史上的8月18日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1961 August 18](/dailybrief/1961-08-18)   
 [Intelligence History on 1962 August 18](/dailybrief/1962-08-18)   

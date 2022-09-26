@@ -2,19 +2,29 @@
 title: Intelligence History on March 27
 date: 2022-03-27
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-03
 - 03-27
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的3月27日，这些情报被递交给时任美国总统
-
 March 27 in history, these intelligence were sent to the US president
 
+情报历史上的3月27日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1962 March 27](/dailybrief/1962-03-27)   
 [Intelligence History on 1963 March 27](/dailybrief/1963-03-27)   

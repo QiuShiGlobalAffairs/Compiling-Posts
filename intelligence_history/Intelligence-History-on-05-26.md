@@ -2,19 +2,29 @@
 title: Intelligence History on May 26
 date: 2022-05-26
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-05
 - 05-26
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的5月26日，这些情报被递交给时任美国总统
-
 May 26 in history, these intelligence were sent to the US president
 
+情报历史上的5月26日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1962 May 26](/dailybrief/1962-05-26)   
 [Intelligence History on 1964 May 26](/dailybrief/1964-05-26)   

@@ -2,19 +2,29 @@
 title: Intelligence History on August 13
 date: 2022-08-13
 author: Qiushi 
-tags: 
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-08
 - 08-13
+multitype: 
+- cia
+tags: 
 - intelligence_history
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/agency/CIA.png'
 ---
 
 
-情报历史上的8月13日，这些情报被递交给时任美国总统
-
 August 13 in history, these intelligence were sent to the US president
 
+情报历史上的8月13日，这些情报被递交给时任美国总统
+
 <!--more-->
+
+
+
+
+
+
 
 [Intelligence History on 1962 August 13](/dailybrief/1962-08-13)   
 [Intelligence History on 1963 August 13](/dailybrief/1963-08-13)   

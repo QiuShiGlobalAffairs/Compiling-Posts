@@ -2,12 +2,22 @@
 title: History on March 9
 date: 2022-03-09
 author: Qiushi 
-tags: 
-- 03-09
+authorLink: "/authors/qiushi"
+timestamp: 
 - 2022-03
+- 03-09
+multitype: 
+- qiushi
+tags: 
 - todayinhistory
 featuredImagePreview: '/img/icon.png'
 ---
+
+
+
+
+
+
 
 
 历史上的3月9日，
