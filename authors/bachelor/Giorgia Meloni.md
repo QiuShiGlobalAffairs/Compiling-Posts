@@ -18,8 +18,10 @@ Giorgia Meloni是意大利青年战斗性右翼。
 
 “意大利的反欧盟领导人萨尔维尼（Matteo Salvini）的民望颇高（意大利右翼联盟党主席、曾任副总理兼内政部长）。
 要不是他自视过高和联合政府分裂，否则他还真可能再上一步。他的影响力下降了，可悲的是意大利兄弟党党魁梅洛尼（Giorgia Meloni）又崛起了，她比萨尔维尼还要极端。”                                         <p align="right">——[索罗斯](https://www.repubblica.it/cronaca/2020/08/11/news/soros_l_europa_piu_fragile_degli_usa_i_vostri_nemici_sono_i_populisti_all_interno_e_la_cina_all_esterno_-301116862/)</p>
+
+
 "Here was this slender girl, but always very serious and determined," Marco Marsilio
-President of Italy's Abruzzo region says. "You'd notice her because at student meetings, she would stop anybody grabbing the microphone off her."
+President of Italy's Abruzzo region says. "You'd notice her because at student meetings, she would stop anybody grabbing the microphone off her."  
 她15岁加入意大利青年阵线，她的同志们这么评价她，她像一头狮子，坚定，严肃。
 
 
