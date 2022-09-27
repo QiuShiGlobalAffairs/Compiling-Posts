@@ -13,6 +13,8 @@ toc: false
 ---
 
 Giorgia Meloni是意大利青年战斗性右翼。
+和她们的对手一样，意大利盛产这样久经考验的”革命“青年。
+<!--more-->
 
 “意大利的反欧盟领导人萨尔维尼（Matteo Salvini）的民望颇高（意大利右翼联盟党主席、曾任副总理兼内政部长）。
 要不是他自视过高和联合政府分裂，否则他还真可能再上一步。他的影响力下降了，可悲的是意大利兄弟党党魁梅洛尼（Giorgia Meloni）又崛起了，她比萨尔维尼还要极端。”                                         <p align="right">——[索罗斯](https://www.repubblica.it/cronaca/2020/08/11/news/soros_l_europa_piu_fragile_degli_usa_i_vostri_nemici_sono_i_populisti_all_interno_e_la_cina_all_esterno_-301116862/)</p>
