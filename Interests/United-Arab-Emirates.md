@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: United Arab Emirates
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: United Arab Emirates
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ae.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on United Arab Emirates
 
 <!--more-->
 
+![国旗 flag](/flag/ae.png)

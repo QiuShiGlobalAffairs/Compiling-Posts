@@ -7,7 +7,7 @@ type: posts
 tags:
 - ICAC
 - KGB
-- Corruption
+- corruption
 multitype:
 - policies
 featuredImagePreview: "/agency/icac.png"

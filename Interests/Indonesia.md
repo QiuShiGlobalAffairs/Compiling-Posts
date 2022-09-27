@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Indonesia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Indonesia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/id.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Indonesia
 
 <!--more-->
 
+![国旗 flag](/flag/id.png)

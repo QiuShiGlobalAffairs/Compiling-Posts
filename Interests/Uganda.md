@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Uganda
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Uganda
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ug.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Uganda
 
 <!--more-->
 
+![国旗 flag](/flag/ug.png)

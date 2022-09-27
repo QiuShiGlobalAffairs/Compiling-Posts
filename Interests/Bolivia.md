@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Bolivia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Bolivia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/bo.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Bolivia
 
 <!--more-->
 
+![国旗 flag](/flag/bo.png)

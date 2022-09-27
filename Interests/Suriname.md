@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Suriname
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Suriname
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/sr.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Suriname
 
 <!--more-->
 
+![国旗 flag](/flag/sr.png)

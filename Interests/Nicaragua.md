@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Nicaragua
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Nicaragua
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ni.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Nicaragua
 
 <!--more-->
 
+![国旗 flag](/flag/ni.png)

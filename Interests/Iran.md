@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Iran
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Iran
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ir.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Iran
 
 <!--more-->
 
+![国旗 flag](/flag/ir.png)

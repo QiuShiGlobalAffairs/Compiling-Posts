@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Uruguay
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Uruguay
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/uy.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Uruguay
 
 <!--more-->
 
+![国旗 flag](/flag/uy.png)

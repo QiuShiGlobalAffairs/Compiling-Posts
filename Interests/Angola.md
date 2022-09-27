@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Angola
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Angola
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ao.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Angola
 
 <!--more-->
 
+![国旗 flag](/flag/ao.png)

@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Kosovo
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Kosovo
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/xk.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Kosovo
 
 <!--more-->
 
+![国旗 flag](/flag/xk.png)

@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: French Southern and Antarctic Lands
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: French Southern and Antarctic Lands
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/fs.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on French Southern and Antarctic Lands
 
 <!--more-->
 
+![国旗 flag](/flag/fs.png)

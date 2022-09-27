@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Falkland Islands
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Falkland Islands
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/fk.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Falkland Islands
 
 <!--more-->
 
+![国旗 flag](/flag/fk.png)

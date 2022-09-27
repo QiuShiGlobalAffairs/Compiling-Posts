@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Sri Lanka
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Sri Lanka
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/lk.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Sri Lanka
 
 <!--more-->
 
+![国旗 flag](/flag/lk.png)

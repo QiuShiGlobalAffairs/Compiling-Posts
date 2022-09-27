@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Benin
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Benin
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/bj.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Benin
 
 <!--more-->
 
+![国旗 flag](/flag/bj.png)

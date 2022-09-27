@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Moldova
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Moldova
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/md.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Moldova
 
 <!--more-->
 
+![国旗 flag](/flag/md.png)

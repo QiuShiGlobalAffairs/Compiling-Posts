@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Costa Rica
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Costa Rica
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/cr.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Costa Rica
 
 <!--more-->
 
+![国旗 flag](/flag/cr.png)

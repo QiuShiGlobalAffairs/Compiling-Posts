@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Croatia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Croatia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/hr.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Croatia
 
 <!--more-->
 
+![国旗 flag](/flag/hr.png)

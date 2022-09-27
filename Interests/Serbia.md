@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Serbia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Serbia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/rs.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Serbia
 
 <!--more-->
 
+![国旗 flag](/flag/rs.png)

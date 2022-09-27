@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: China
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: China
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/cn.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on China
 
 <!--more-->
 
+![国旗 flag](/flag/cn.png)

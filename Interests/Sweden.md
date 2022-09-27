@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Sweden
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Sweden
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/se.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Sweden
 
 <!--more-->
 
+![国旗 flag](/flag/se.png)

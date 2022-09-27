@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Netherlands
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Netherlands
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/nl.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Netherlands
 
 <!--more-->
 
+![国旗 flag](/flag/nl.png)

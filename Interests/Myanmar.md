@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Myanmar
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Myanmar
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/mm.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Myanmar
 
 <!--more-->
 
+![国旗 flag](/flag/mm.png)

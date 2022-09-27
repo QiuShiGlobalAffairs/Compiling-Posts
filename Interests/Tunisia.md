@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Tunisia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Tunisia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/tn.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Tunisia
 
 <!--more-->
 
+![国旗 flag](/flag/tn.png)

@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: West Bank
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: West Bank
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ps.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on West Bank
 
 <!--more-->
 
+![国旗 flag](/flag/ps.png)

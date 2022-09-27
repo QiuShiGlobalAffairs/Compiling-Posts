@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Puerto Rico
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Puerto Rico
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/pr.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Puerto Rico
 
 <!--more-->
 
+![国旗 flag](/flag/pr.png)

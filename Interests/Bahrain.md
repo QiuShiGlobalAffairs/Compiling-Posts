@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Bahrain
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Bahrain
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/nh.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Bahrain
 
 <!--more-->
 
+![国旗 flag](/flag/nh.png)

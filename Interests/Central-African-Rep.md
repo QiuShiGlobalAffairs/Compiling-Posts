@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Central African Rep.
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Central African Rep.
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/cf.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Central African Rep.
 
 <!--more-->
 
+![国旗 flag](/flag/cf.png)

@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Mauritania
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Mauritania
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/mr.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Mauritania
 
 <!--more-->
 
+![国旗 flag](/flag/mr.png)

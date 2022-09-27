@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Argentina
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Argentina
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ar.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Argentina
 
 <!--more-->
 
+![国旗 flag](/flag/ar.png)

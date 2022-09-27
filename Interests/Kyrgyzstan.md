@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Kyrgyzstan
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Kyrgyzstan
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/kg.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Kyrgyzstan
 
 <!--more-->
 
+![国旗 flag](/flag/kg.png)

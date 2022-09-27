@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Bosnia and Herz.
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Bosnia and Herz.
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ba.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Bosnia and Herz.
 
 <!--more-->
 
+![国旗 flag](/flag/ba.png)

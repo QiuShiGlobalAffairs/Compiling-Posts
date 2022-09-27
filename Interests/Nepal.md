@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Nepal
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Nepal
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/np.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Nepal
 
 <!--more-->
 
+![国旗 flag](/flag/np.png)

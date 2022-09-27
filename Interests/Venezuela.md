@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Venezuela
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Venezuela
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ve.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Venezuela
 
 <!--more-->
 
+![国旗 flag](/flag/ve.png)

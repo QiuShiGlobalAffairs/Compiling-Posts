@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Congo
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Congo
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/cg.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Congo
 
 <!--more-->
 
+![国旗 flag](/flag/cg.png)

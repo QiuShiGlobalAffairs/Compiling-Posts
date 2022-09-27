@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Germany
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Germany
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/de.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Germany
 
 <!--more-->
 
+![国旗 flag](/flag/de.png)

@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: French Guiana
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: French Guiana
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/gf.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on French Guiana
 
 <!--more-->
 
+![国旗 flag](/flag/gf.png)

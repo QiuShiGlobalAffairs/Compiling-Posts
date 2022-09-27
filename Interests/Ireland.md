@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Ireland
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Ireland
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ie.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Ireland
 
 <!--more-->
 
+![国旗 flag](/flag/ie.png)

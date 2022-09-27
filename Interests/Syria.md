@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Syria
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Syria
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/sy.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Syria
 
 <!--more-->
 
+![国旗 flag](/flag/sy.png)

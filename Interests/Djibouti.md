@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Djibouti
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Djibouti
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/dj.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Djibouti
 
 <!--more-->
 
+![国旗 flag](/flag/dj.png)

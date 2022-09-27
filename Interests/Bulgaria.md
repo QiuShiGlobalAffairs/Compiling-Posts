@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Bulgaria
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Bulgaria
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/bg.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Bulgaria
 
 <!--more-->
 
+![国旗 flag](/flag/bg.png)

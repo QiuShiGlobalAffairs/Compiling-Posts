@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Greece
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Greece
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/gr.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Greece
 
 <!--more-->
 
+![国旗 flag](/flag/gr.png)

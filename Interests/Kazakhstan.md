@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Kazakhstan
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Kazakhstan
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/kz.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Kazakhstan
 
 <!--more-->
 
+![国旗 flag](/flag/kz.png)

@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Mexico
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Mexico
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/mx.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Mexico
 
 <!--more-->
 
+![国旗 flag](/flag/mx.png)

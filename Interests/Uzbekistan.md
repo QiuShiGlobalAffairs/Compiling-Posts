@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Uzbekistan
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Uzbekistan
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/uz.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Uzbekistan
 
 <!--more-->
 
+![国旗 flag](/flag/uz.png)

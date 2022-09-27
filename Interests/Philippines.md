@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Philippines
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Philippines
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ph.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Philippines
 
 <!--more-->
 
+![国旗 flag](/flag/ph.png)

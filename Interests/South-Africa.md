@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: South Africa
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: South Africa
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/za.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on South Africa
 
 <!--more-->
 
+![国旗 flag](/flag/za.png)

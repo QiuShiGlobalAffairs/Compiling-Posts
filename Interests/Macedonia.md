@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Macedonia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Macedonia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/mk.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Macedonia
 
 <!--more-->
 
+![国旗 flag](/flag/mk.png)

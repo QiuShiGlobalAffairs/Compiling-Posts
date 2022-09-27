@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Korea
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Korea
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/kr.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Korea
 
 <!--more-->
 
+![国旗 flag](/flag/kr.png)

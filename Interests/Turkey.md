@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Turkey
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Turkey
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/tr.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Turkey
 
 <!--more-->
 
+![国旗 flag](/flag/tr.png)

@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Poland
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Poland
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/pl.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Poland
 
 <!--more-->
 
+![国旗 flag](/flag/pl.png)

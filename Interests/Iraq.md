@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Iraq
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Iraq
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/iq.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Iraq
 
 <!--more-->
 
+![国旗 flag](/flag/iq.png)

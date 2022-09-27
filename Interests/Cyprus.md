@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Cyprus
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Cyprus
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/cy.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Cyprus
 
 <!--more-->
 
+![国旗 flag](/flag/cy.png)

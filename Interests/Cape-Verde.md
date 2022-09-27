@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Cape Verde
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Cape Verde
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/cv.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Cape Verde
 
 <!--more-->
 
+![国旗 flag](/flag/cv.png)

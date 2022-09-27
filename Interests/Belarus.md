@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Belarus
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Belarus
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/by.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Belarus
 
 <!--more-->
 
+![国旗 flag](/flag/by.png)

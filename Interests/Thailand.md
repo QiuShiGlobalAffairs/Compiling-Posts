@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Thailand
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Thailand
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/th.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Thailand
 
 <!--more-->
 
+![国旗 flag](/flag/th.png)

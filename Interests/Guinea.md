@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Guinea
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Guinea
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/gn.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Guinea
 
 <!--more-->
 
+![国旗 flag](/flag/gn.png)

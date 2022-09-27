@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Israel
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Israel
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/il.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Israel
 
 <!--more-->
 
+![国旗 flag](/flag/il.png)

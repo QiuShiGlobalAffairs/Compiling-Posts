@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Bahamas
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Bahamas
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/bs.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Bahamas
 
 <!--more-->
 
+![国旗 flag](/flag/bs.png)

@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Latvia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Latvia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/lv.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Latvia
 
 <!--more-->
 
+![国旗 flag](/flag/lv.png)

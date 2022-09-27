@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Lao PDR
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Lao PDR
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/la.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Lao PDR
 
 <!--more-->
 
+![国旗 flag](/flag/la.png)

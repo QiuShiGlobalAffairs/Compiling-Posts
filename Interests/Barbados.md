@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Barbados
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Barbados
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/bb.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Barbados
 
 <!--more-->
 
+![国旗 flag](/flag/bb.png)

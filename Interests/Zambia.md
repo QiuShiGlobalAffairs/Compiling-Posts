@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Zambia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Zambia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/zm.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Zambia
 
 <!--more-->
 
+![国旗 flag](/flag/zm.png)

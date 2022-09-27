@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Switzerland
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Switzerland
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ch.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Switzerland
 
 <!--more-->
 
+![国旗 flag](/flag/ch.png)

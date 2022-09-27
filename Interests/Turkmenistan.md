@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Turkmenistan
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Turkmenistan
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/tm.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Turkmenistan
 
 <!--more-->
 
+![国旗 flag](/flag/tm.png)

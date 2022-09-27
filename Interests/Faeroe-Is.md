@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Faeroe Is.
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Faeroe Is.
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/fo.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Faeroe Is.
 
 <!--more-->
 
+![国旗 flag](/flag/fo.png)

@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: France
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: France
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/fr.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on France
 
 <!--more-->
 
+![国旗 flag](/flag/fr.png)

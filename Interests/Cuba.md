@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Cuba
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Cuba
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/cu.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Cuba
 
 <!--more-->
 
+![国旗 flag](/flag/cu.png)

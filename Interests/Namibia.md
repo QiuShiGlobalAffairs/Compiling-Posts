@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Namibia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Namibia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/na.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Namibia
 
 <!--more-->
 
+![国旗 flag](/flag/na.png)

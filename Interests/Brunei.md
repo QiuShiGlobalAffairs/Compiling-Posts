@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Brunei
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Brunei
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/bn.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Brunei
 
 <!--more-->
 
+![国旗 flag](/flag/bn.png)

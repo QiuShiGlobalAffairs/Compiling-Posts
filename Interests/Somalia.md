@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Somalia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Somalia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/so.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Somalia
 
 <!--more-->
 
+![国旗 flag](/flag/so.png)

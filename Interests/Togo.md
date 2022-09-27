@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Togo
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Togo
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/tg.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Togo
 
 <!--more-->
 
+![国旗 flag](/flag/tg.png)

@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Rwanda
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Rwanda
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/rw.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Rwanda
 
 <!--more-->
 
+![国旗 flag](/flag/rw.png)

@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Lithuania
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Lithuania
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/lt.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Lithuania
 
 <!--more-->
 
+![国旗 flag](/flag/lt.png)

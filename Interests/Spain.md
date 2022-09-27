@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Spain
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Spain
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/es.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Spain
 
 <!--more-->
 
+![国旗 flag](/flag/es.png)

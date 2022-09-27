@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Bermuda
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Bermuda
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/bm.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Bermuda
 
 <!--more-->
 
+![国旗 flag](/flag/bm.png)

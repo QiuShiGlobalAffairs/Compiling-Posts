@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Gambia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Gambia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/gm.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Gambia
 
 <!--more-->
 
+![国旗 flag](/flag/gm.png)

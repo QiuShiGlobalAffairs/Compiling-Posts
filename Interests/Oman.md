@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Oman
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Oman
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/om.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Oman
 
 <!--more-->
 
+![国旗 flag](/flag/om.png)

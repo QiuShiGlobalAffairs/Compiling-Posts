@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Paraguay
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Paraguay
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/py.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Paraguay
 
 <!--more-->
 
+![国旗 flag](/flag/py.png)

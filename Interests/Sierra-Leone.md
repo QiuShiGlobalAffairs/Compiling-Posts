@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Sierra Leone
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Sierra Leone
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/sl.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Sierra Leone
 
 <!--more-->
 
+![国旗 flag](/flag/sl.png)

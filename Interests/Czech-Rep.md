@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Czech Rep.
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Czech Rep.
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/cz.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Czech Rep.
 
 <!--more-->
 
+![国旗 flag](/flag/cz.png)

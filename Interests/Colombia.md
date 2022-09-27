@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Colombia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Colombia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/co.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Colombia
 
 <!--more-->
 
+![国旗 flag](/flag/co.png)

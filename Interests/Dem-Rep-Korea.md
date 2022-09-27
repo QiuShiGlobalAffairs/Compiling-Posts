@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Dem. Rep. Korea
 
 author: Qiushi 

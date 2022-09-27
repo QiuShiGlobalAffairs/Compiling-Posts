@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Slovenia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Slovenia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/si.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Slovenia
 
 <!--more-->
 
+![国旗 flag](/flag/si.png)

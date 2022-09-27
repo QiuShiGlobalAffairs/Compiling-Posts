@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Ethiopia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Ethiopia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/et.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Ethiopia
 
 <!--more-->
 
+![国旗 flag](/flag/et.png)

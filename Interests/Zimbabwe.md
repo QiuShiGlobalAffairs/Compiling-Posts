@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Zimbabwe
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Zimbabwe
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/zw.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Zimbabwe
 
 <!--more-->
 
+![国旗 flag](/flag/zw.png)

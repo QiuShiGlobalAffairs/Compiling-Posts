@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Haiti
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Haiti
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ht.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Haiti
 
 <!--more-->
 
+![国旗 flag](/flag/ht.png)

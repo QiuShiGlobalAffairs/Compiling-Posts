@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Mauritius
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Mauritius
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/mu.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Mauritius
 
 <!--more-->
 
+![国旗 flag](/flag/mu.png)

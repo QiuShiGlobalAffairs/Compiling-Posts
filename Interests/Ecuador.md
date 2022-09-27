@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Ecuador
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Ecuador
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ec.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Ecuador
 
 <!--more-->
 
+![国旗 flag](/flag/ec.png)

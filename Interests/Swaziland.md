@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Swaziland
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Swaziland
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/sz.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Swaziland
 
 <!--more-->
 
+![国旗 flag](/flag/sz.png)

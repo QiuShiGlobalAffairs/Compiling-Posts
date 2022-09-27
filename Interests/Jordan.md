@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Jordan
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Jordan
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/jo.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Jordan
 
 <!--more-->
 
+![国旗 flag](/flag/jo.png)

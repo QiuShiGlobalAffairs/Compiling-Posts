@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Senegal
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Senegal
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/sn.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Senegal
 
 <!--more-->
 
+![国旗 flag](/flag/sn.png)

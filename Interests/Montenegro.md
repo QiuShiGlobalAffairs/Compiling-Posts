@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Montenegro
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Montenegro
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/me.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Montenegro
 
 <!--more-->
 
+![国旗 flag](/flag/me.png)

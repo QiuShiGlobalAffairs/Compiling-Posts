@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Georgia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Georgia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ge.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Georgia
 
 <!--more-->
 
+![国旗 flag](/flag/ge.png)

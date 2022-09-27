@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Liechtenstein
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Liechtenstein
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/li.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Liechtenstein
 
 <!--more-->
 
+![国旗 flag](/flag/li.png)

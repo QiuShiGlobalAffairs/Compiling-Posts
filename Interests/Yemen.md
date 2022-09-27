@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Yemen
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Yemen
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ye.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Yemen
 
 <!--more-->
 
+![国旗 flag](/flag/ye.png)

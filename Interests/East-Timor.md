@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: East Timor
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: East Timor
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/tl.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on East Timor
 
 <!--more-->
 
+![国旗 flag](/flag/tl.png)

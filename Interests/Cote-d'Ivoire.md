@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Cote d'Ivoire
 
 author: Qiushi 

@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Lebanon
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Lebanon
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/lb.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Lebanon
 
 <!--more-->
 
+![国旗 flag](/flag/lb.png)

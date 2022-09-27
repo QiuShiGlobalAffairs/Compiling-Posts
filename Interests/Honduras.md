@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Honduras
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Honduras
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/hn.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Honduras
 
 <!--more-->
 
+![国旗 flag](/flag/hn.png)

@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Botswana
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Botswana
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/bw.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Botswana
 
 <!--more-->
 
+![国旗 flag](/flag/bw.png)

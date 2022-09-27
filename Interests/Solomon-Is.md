@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Solomon Is.
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Solomon Is.
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/sb.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Solomon Is.
 
 <!--more-->
 
+![国旗 flag](/flag/sb.png)

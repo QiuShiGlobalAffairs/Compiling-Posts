@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Papua New Guinea
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Papua New Guinea
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/pg.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Papua New Guinea
 
 <!--more-->
 
+![国旗 flag](/flag/pg.png)

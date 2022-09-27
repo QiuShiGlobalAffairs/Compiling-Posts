@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Liberia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Liberia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/lr.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Liberia
 
 <!--more-->
 
+![国旗 flag](/flag/lr.png)

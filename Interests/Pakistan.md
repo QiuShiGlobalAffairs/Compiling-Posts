@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Pakistan
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Pakistan
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/pk.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Pakistan
 
 <!--more-->
 
+![国旗 flag](/flag/pk.png)

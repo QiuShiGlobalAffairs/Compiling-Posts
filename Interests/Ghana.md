@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Ghana
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Ghana
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/gh.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Ghana
 
 <!--more-->
 
+![国旗 flag](/flag/gh.png)

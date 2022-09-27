@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Timor-Leste
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Timor-Leste
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/tl.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Timor-Leste
 
 <!--more-->
 
+![国旗 flag](/flag/tl.png)

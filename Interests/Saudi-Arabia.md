@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Saudi Arabia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Saudi Arabia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/sa.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Saudi Arabia
 
 <!--more-->
 
+![国旗 flag](/flag/sa.png)

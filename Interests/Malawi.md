@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Malawi
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Malawi
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/mv.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Malawi
 
 <!--more-->
 
+![国旗 flag](/flag/mv.png)

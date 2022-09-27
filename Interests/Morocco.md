@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Morocco
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Morocco
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ma.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Morocco
 
 <!--more-->
 
+![国旗 flag](/flag/ma.png)

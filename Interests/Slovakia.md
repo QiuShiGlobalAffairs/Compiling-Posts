@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Slovakia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Slovakia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/sk.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Slovakia
 
 <!--more-->
 
+![国旗 flag](/flag/sk.png)

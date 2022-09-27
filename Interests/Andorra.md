@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Andorra
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Andorra
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ad.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Andorra
 
 <!--more-->
 
+![国旗 flag](/flag/ad.png)

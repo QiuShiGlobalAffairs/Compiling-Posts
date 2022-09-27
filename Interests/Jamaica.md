@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Jamaica
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Jamaica
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/jm.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Jamaica
 
 <!--more-->
 
+![国旗 flag](/flag/jm.png)

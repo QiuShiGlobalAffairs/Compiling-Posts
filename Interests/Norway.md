@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Norway
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Norway
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/no.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Norway
 
 <!--more-->
 
+![国旗 flag](/flag/no.png)

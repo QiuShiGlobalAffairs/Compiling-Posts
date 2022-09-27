@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Trinidad and Tobago
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Trinidad and Tobago
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/tt.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Trinidad and Tobago
 
 <!--more-->
 
+![国旗 flag](/flag/tt.png)

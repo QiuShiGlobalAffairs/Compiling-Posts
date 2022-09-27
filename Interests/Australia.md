@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Australia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Australia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/au.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Australia
 
 <!--more-->
 
+![国旗 flag](/flag/au.png)

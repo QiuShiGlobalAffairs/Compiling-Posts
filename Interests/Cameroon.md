@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Cameroon
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Cameroon
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/cm.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Cameroon
 
 <!--more-->
 
+![国旗 flag](/flag/cm.png)

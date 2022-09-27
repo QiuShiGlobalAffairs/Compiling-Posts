@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Mozambique
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Mozambique
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/mz.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Mozambique
 
 <!--more-->
 
+![国旗 flag](/flag/mz.png)

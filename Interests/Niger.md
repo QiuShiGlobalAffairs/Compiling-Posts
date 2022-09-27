@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Niger
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Niger
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ne.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Niger
 
 <!--more-->
 
+![国旗 flag](/flag/ne.png)

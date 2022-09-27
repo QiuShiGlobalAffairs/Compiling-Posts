@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Tanzania
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Tanzania
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/tz.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Tanzania
 
 <!--more-->
 
+![国旗 flag](/flag/tz.png)

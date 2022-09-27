@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Palestine
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Palestine
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ps.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Palestine
 
 <!--more-->
 
+![国旗 flag](/flag/ps.png)

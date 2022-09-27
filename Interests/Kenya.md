@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Kenya
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Kenya
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ke.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Kenya
 
 <!--more-->
 
+![国旗 flag](/flag/ke.png)

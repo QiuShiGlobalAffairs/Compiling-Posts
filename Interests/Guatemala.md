@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Guatemala
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Guatemala
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/gt.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Guatemala
 
 <!--more-->
 
+![国旗 flag](/flag/gt.png)

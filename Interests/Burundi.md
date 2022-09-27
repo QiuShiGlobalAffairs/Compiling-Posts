@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Burundi
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Burundi
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/bi.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Burundi
 
 <!--more-->
 
+![国旗 flag](/flag/bi.png)

@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Kuwait
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Kuwait
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/kw.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Kuwait
 
 <!--more-->
 
+![国旗 flag](/flag/kw.png)

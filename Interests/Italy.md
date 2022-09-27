@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Italy
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Italy
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/it.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Italy
 
 <!--more-->
 
+![国旗 flag](/flag/it.png)

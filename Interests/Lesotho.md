@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Lesotho
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Lesotho
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ls.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Lesotho
 
 <!--more-->
 
+![国旗 flag](/flag/ls.png)

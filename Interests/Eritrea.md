@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Eritrea
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Eritrea
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/er.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Eritrea
 
 <!--more-->
 
+![国旗 flag](/flag/er.png)

@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Armenia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Armenia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/am.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Armenia
 
 <!--more-->
 
+![国旗 flag](/flag/am.png)

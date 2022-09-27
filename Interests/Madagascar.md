@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Madagascar
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Madagascar
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/mg.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Madagascar
 
 <!--more-->
 
+![国旗 flag](/flag/mg.png)

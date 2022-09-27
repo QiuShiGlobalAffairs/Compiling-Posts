@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Mongolia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Mongolia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/mn.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Mongolia
 
 <!--more-->
 
+![国旗 flag](/flag/mn.png)

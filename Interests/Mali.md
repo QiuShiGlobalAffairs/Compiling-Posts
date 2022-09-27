@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Mali
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Mali
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ml.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Mali
 
 <!--more-->
 
+![国旗 flag](/flag/ml.png)

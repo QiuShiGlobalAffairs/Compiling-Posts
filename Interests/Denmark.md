@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Denmark
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Denmark
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/dk.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Denmark
 
 <!--more-->
 
+![国旗 flag](/flag/dk.png)

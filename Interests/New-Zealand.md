@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: New Zealand
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: New Zealand
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/nz.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on New Zealand
 
 <!--more-->
 
+![国旗 flag](/flag/nz.png)

@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Vietnam
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Vietnam
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/vn.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Vietnam
 
 <!--more-->
 
+![国旗 flag](/flag/vn.png)

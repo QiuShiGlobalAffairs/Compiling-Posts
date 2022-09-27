@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Panama
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Panama
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/pa.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Panama
 
 <!--more-->
 
+![国旗 flag](/flag/pa.png)

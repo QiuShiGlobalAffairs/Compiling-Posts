@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Libya
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Libya
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ly.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Libya
 
 <!--more-->
 
+![国旗 flag](/flag/ly.png)

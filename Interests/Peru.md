@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Peru
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Peru
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/pe.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Peru
 
 <!--more-->
 
+![国旗 flag](/flag/pe.png)

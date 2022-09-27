@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Luxembourg
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Luxembourg
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/lu.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Luxembourg
 
 <!--more-->
 
+![国旗 flag](/flag/lu.png)

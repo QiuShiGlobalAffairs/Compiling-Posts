@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Russia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Russia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ru.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Russia
 
 <!--more-->
 
+![国旗 flag](/flag/ru.png)

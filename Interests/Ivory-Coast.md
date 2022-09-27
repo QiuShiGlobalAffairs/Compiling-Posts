@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Ivory Coast
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Ivory Coast
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ci.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Ivory Coast
 
 <!--more-->
 
+![国旗 flag](/flag/ci.png)

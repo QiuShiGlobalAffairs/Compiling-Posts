@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: New Caledonia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: New Caledonia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/nc.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on New Caledonia
 
 <!--more-->
 
+![国旗 flag](/flag/nc.png)

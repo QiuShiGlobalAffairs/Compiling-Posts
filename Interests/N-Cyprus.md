@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: N. Cyprus
 
 author: Qiushi 

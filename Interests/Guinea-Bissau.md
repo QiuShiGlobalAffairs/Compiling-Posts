@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Guinea Bissau
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Guinea Bissau
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/gw.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Guinea Bissau
 
 <!--more-->
 
+![国旗 flag](/flag/gw.png)

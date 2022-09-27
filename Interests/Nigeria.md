@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Nigeria
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Nigeria
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ng.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Nigeria
 
 <!--more-->
 
+![国旗 flag](/flag/ng.png)

@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Cayman Is.
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Cayman Is.
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ky.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Cayman Is.
 
 <!--more-->
 
+![国旗 flag](/flag/ky.png)

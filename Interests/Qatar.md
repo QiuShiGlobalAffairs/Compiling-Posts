@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Qatar
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Qatar
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/qa.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Qatar
 
 <!--more-->
 
+![国旗 flag](/flag/qa.png)

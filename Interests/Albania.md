@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Albania
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Albania
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/al.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Albania
 
 <!--more-->
 
+![国旗 flag](/flag/al.png)

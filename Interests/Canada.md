@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Canada
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Canada
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ca.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Canada
 
 <!--more-->
 
+![国旗 flag](/flag/ca.png)

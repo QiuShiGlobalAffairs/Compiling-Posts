@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Azerbaijan
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Azerbaijan
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/az.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Azerbaijan
 
 <!--more-->
 
+![国旗 flag](/flag/az.png)

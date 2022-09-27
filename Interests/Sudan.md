@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Sudan
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Sudan
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/sd.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Sudan
 
 <!--more-->
 
+![国旗 flag](/flag/sd.png)

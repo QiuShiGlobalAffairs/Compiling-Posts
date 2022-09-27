@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Hungary
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Hungary
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/hu.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Hungary
 
 <!--more-->
 
+![国旗 flag](/flag/hu.png)

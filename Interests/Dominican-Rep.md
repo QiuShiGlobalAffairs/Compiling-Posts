@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Dominican Rep.
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Dominican Rep.
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/do.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Dominican Rep.
 
 <!--more-->
 
+![国旗 flag](/flag/do.png)

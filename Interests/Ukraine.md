@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Ukraine
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Ukraine
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ua.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Ukraine
 
 <!--more-->
 
+![国旗 flag](/flag/ua.png)

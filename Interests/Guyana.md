@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Guyana
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Guyana
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/gy.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Guyana
 
 <!--more-->
 
+![国旗 flag](/flag/gy.png)

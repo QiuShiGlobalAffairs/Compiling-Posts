@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Cambodia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Cambodia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/kh.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Cambodia
 
 <!--more-->
 
+![国旗 flag](/flag/kh.png)

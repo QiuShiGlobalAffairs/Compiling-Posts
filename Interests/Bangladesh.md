@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Bangladesh
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Bangladesh
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/bd.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Bangladesh
 
 <!--more-->
 
+![国旗 flag](/flag/bd.png)

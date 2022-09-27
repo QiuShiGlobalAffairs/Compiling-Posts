@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Belize
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Belize
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/bz.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Belize
 
 <!--more-->
 
+![国旗 flag](/flag/bz.png)

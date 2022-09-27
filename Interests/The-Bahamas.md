@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: The Bahamas
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: The Bahamas
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/bs.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on The Bahamas
 
 <!--more-->
 
+![国旗 flag](/flag/bs.png)

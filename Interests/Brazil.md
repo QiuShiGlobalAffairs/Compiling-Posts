@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Brazil
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Brazil
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/br.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Brazil
 
 <!--more-->
 
+![国旗 flag](/flag/br.png)

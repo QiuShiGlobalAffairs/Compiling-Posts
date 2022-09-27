@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Austria
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Austria
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/at.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Austria
 
 <!--more-->
 
+![国旗 flag](/flag/at.png)

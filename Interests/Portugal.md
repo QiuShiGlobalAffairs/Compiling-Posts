@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Portugal
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Portugal
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/pt.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Portugal
 
 <!--more-->
 
+![国旗 flag](/flag/pt.png)

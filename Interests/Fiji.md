@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Fiji
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Fiji
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/fj.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Fiji
 
 <!--more-->
 
+![国旗 flag](/flag/fj.png)

@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Iceland
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Iceland
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/is.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Iceland
 
 <!--more-->
 
+![国旗 flag](/flag/is.png)

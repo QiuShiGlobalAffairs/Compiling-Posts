@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: India
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: India
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/in.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on India
 
 <!--more-->
 
+![国旗 flag](/flag/in.png)

@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Chad
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Chad
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/td.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Chad
 
 <!--more-->
 
+![国旗 flag](/flag/td.png)

@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Greenland
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Greenland
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/gl.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Greenland
 
 <!--more-->
 
+![国旗 flag](/flag/gl.png)

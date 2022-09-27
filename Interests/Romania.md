@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Romania
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Romania
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ro.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Romania
 
 <!--more-->
 
+![国旗 flag](/flag/ro.png)

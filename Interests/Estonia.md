@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Estonia
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Estonia
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/ee.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Estonia
 
 <!--more-->
 
+![国旗 flag](/flag/ee.png)

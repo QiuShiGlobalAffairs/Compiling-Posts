@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Algeria
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Algeria
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/dz.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Algeria
 
 <!--more-->
 
+![国旗 flag](/flag/dz.png)

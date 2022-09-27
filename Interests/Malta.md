@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Malta
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Malta
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/mt.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Malta
 
 <!--more-->
 
+![国旗 flag](/flag/mt.png)

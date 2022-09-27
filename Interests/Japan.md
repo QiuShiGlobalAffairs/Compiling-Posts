@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Japan
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Japan
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/jp.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Japan
 
 <!--more-->
 
+![国旗 flag](/flag/jp.png)

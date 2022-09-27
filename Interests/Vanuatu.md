@@ -1,5 +1,7 @@
 ---
 
+weight: 1
+
 title: Vanuatu
 
 author: Qiushi 
@@ -9,7 +11,9 @@ countries:
 
 type: Vanuatu
 
-featuredImagePreview: '/img/icon.png'
+featuredImagePreview: '/flag/vu.png'
+
+toc: false 
 
 ---
 
@@ -19,3 +23,4 @@ Brief on Vanuatu
 
 <!--more-->
 
+![国旗 flag](/flag/vu.png)
