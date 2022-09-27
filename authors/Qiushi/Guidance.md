@@ -40,7 +40,7 @@ Another simple topic to pick: a summary of the various opinions in the public sp
 ## Hand in your writing plan
 
 
-Your country of interest; Your topic (you can change it later).
+Your [country of interest](/interests); Your [topic](/tags) (you can change it later).
 Your specific delivery date. your and anonym and your email.
 
 ###  Example:
@@ -83,7 +83,7 @@ You need to cite the source for others to do fact check
 We encourage you to cite in APA style
 
 
-#3 File type for submission 
+## File type for submission 
 We strongly recommend you to use [markdown](/documents/markdown/) to write you work!  Our official email is <a href="mailto:intlcommu@outlook.com">intlcommu@outlook.com</a>.
 
 

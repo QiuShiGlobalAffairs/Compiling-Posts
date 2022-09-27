@@ -9,7 +9,8 @@ lightgallery: true
 weight: 1
 math:
   enable: true
-  
+tags:
+- documents
 comment:
   enable: false
 ---
@@ -18,14 +19,13 @@ comment:
 
 ### 1、General
 （1）[Qiushi](/authors/qiushi) is a voluntary platform composed of international news enthusiasts, aiming to reduce left-wing ideological hollow talk, focus on political and economic analysis, and enhance the left-wing international vision and solidarity. Activities will be around this guiding purpose.  
-（2）The external organization of Qiushi is [Editorial Council](/authors), and the basic internal work unit is the country-specific research group.  
+（2）The external organization of Qiushi is [Editorial Council](/authors), and the basic internal work unit is the country-specific research group. The functions and duties of various members of Editorial Council are detailed in the [Personnel Duty](#personnel-duty) below.  
 （3）The working languages ​​include Chinese and English. The contributors can decide whether to use Chinese, English, or both.  
 
 ### 2、Editorial Council
 （1）The members of Editorial Council include the leaders of each national intelligence team and the rotating editors-in-chief-in-chief.  
 （2）Editorial Council holds a weekly work meeting to choose their writing topic, share their process of their writing, and cross edit and proof their work.  
 （3）Editorial Council is responsible for other productive work other than national intelligence, including website construction, article publishing, social account operation, video and picture production, etc.  
-（4）The functions and duties of various members of Editorial Council are detailed in the [Personnel Duty](#personnel-duty) below.  
 ### 3、National Intelligence Team
 （1）Editorial Council sets up several national intelligence teams according to the work content and type.  
 （2）Each national team is responsible for the selection and screening of intelligence until it reaches the level of publication.   
@@ -57,7 +57,7 @@ Since the work of international intelligence requires both professional and poli
 ## Production Procedure
 （1）The editorial council will provide a list of [suggested references](/interests/) for the selection of national intelligence materials, and the specific topics are decided by the contributors themselves.  
 （2）After the intelligence writing is completed, the team leader submits the intelligence to the rotating editor-in-chief. The rotating editor-in-chief will screen the products, the qualified ones will be submitted for publication, and the unqualified ones will be reworked.  
-（3）The review principle. In principle, only formal review is conducted (principle of factuality and objectivity), and the quality of intelligence is the only review standard. Citation sources are required, data charts are encouraged, and there is no limit to the number of words.  
+（3）The review principle. In principle, only [formal review](/authors/qiushi/guidance/#writing-principles) is conducted (principle of factuality and objectivity), and the quality of intelligence is the only review standard. Citation sources are required, data charts are encouraged, and there is no limit to the number of words.  
 
 (Subsequently, according to the progress of the work, the editors-in-chief will supplement or modify the above plan through unanimous consensus.)
 

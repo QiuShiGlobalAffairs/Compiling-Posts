@@ -4,8 +4,9 @@ date: 2022-09-03
 author: Hank
 regions:
 - Europe-Major
-tags: 
+countries: 
 - Britain
+
 featuredImagePreview: 'https://static.lpnt.fr/images/2022/09/03/23584269lpw-23584727-article-jpg_8990230_660x287.jpg'
 authorLink: "/authors/hank"
 

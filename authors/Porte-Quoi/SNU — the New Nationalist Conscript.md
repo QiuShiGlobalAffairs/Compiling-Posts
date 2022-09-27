@@ -4,8 +4,9 @@ author: Porte Quoi
 date: 2022-08-31
 regions:
 - Europe-major
-tags:
+countries:
 - France
+tags:
 - Politics-Education
 type: posts
 authorLink: "/authors/porte-quoi"

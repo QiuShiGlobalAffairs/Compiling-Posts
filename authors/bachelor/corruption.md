@@ -7,10 +7,11 @@ type: posts
 regions:
 - East-Asia
 tags:
-- China
 - Corruption
 Countries:
 - China
+multitype:
+- policies
 ---
 
 CCP's penalties for intra-party corruption are getting softer. 

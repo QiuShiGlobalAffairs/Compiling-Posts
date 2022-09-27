@@ -8,12 +8,15 @@ featuredImagePreview: "/agency/CIA.png"
 TocOpen: ture
 regions:
 - North-America
-tags:
+countries:
 - United States
+tags:
 - dailybrief
 multitype: [dailybrief]
+
+
 ---
-每日简报的策划,
+每日简报的策划,是为了加强对他国国情的认识,以及提升自己识别重要情报的能力。
 
 以下是美国总统简报的公开检索途径，
 

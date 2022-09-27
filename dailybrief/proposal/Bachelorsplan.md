@@ -1,13 +1,12 @@
 ---
-title: Bachelor
-weight: 1
-title: "Daily Breiefing Discussion"
-date: 2022-09-07T16:30:05+08:00
+
+title: "策划：情报历史上的今日"
+date: 2022-09-09T16:30:05+08:00
 lastmod: 
 draft: false
 author: "Bachelor"
 authorLink: "/authors/bachelor"
-description: "每日简报的策划,组织和可持续"
+description: "策划：情报历史上的今日"
 images: []
 resources:
 - name: "featured-image"
@@ -43,10 +42,21 @@ https://www.cia.gov/readingroom/collection/presidents-daily-brief-1969-1977 from
 https://www.cia.gov/readingroom/collection/presidents-daily-brief-1961-1969 from the Kennedy and Johnson administrations.
 
 
-每天本组的产出
+还有其他文件等待收集
+Materials available for review include:
 
-可以分两步，第一步做公开信源的新闻摘要，同时开展对美国总统简报每日的学习。
-
-在这部分学习中不断加强对他国国情的认识,以及提升自己识别重要情报的能力。
-
-在国别情报会之前，我们可能先要形成每日新闻简报，然后是同志们一起交流之后写成的每日情报简报，在这个过程中，如果能形成国别的专题讨论，那也算是国别情报组的雏形了。
+Cabinet meeting minutes
+CIA intelligence studies and reports
+Correspondence
+Diary entries
+FBI surveillance and intelligence correspondence and memoranda
+Full texts of letters, instructions, and cables sent and received by U.S. diplomatic personnel
+Joint Chiefs papers
+National Security Council policy statements
+Presidential conferences
+State Department political analyses
+Technical studies
+Trade treaties, studies and analyses
+U.S. briefing materials for meetings with foreign heads of state and government officials
+White House Confidential File materials
+And much more

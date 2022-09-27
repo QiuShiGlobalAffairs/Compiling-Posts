@@ -7,6 +7,7 @@ regions:
 - Africa
 tags: 
 - Corruption
+countries:
 - Soutth Africa
 authorLink: "/authors/bosman"
 featuredImagePreview: 'https://media.vanityfair.com/photos/5c7993e3faa84649abb66b6c/master/pass/Guptas-march-2019-lede.jpg'

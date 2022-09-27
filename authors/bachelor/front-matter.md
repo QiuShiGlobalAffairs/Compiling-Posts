@@ -13,138 +13,121 @@ multitype: [documents]
 在架构调整时，我们的posts前置变量总是在不断变化，而同时这些posts又已经在生产环境之下，受过修改。因此，无损迁移posts，成为了本文的主题。
 <!--more-->
 
-# 关于学习材料的爬取，我们主要使用python
+# 关于文件内容读取和修改，我们主要使用python
 
-## 第一步是下载网页
+## 第一步是写好正则规则
 ```markdown
-import requests
-import os
 
+import re, os
 
-for j in range(0,124):
-    r = requests.get('https://www.cia.gov/readingroom/collection/presidents-daily-brief-1961-1969?page=' + str(j))
-    s = requests.session()
-	#由于cia官网的落后，导致我们甚至需要用上的代码不带参数地运行一次来获取第一页。
-    with open("cia"  + "/" + str(j) + ".html", "w", encoding='utf-8') as f:
+path1 = r'C:\Users\Bachelor\Desktop\ABC\our\content\dailybrief'
 
-        try:
-            f.write(r.text)
-            f.close()
-			print( str(j) + "yes")
-        except UnicodeEncodeError:
-            print( str(j) + "fail")
-    s.keep_alive = False
-```
-## 第二步是从这些网页中提取到文件链接和其日期(从文件名中获取)
-
-```markdown
-import requests
-import os
-
-path = './cia/'
-files = os.listdir(path)
-for file in range(13,124):
-        FData = ''
-
-        with open(f"{path}/{file}.html", "rb") as f:
-            for line in f.readlines():
-                line = line.lower()
-                FData += line.decode()
-        #FData = FData.replace('\n', '').replace('\r', '')
-        print({file})
-        #print(FData)
-
-        #congress_pat = re.compile(r'<h4>(.*?)</h4>')
-        #O = re.findall(congress_pat, FData)
-
-		#经过多次尝试我发现这个div下的标签基本一样，除了文本正则基本没有办法摘出来。好在网页平均输出20个解密文件和相对固定的文件名，我们使用了两个列表p,q来对应储存。
-        #congress_pat2 = re.compile(r'the president&#039;s(.*?)</a></h4>') 你之后就会明白为什么不用这个。。。
-		congress_pat2 = re.compile(r'document/\d+(.*?)</a></h4>')
-        p= re.findall(congress_pat2, FData)
-        #p.insert(0,'null')
-
-        print(len(p))
-        #print(str(p))
-        congress_pat3 = re.compile(r'png" /> <a href="(.*?)" type="application/pdf')
-        q = re.findall(congress_pat3, FData)
-        q.pop(0) #由于每一页都有其授权发布的那一个pdf文件，因此我们必须在文件列表中删去它
-        #p.remove('https://www.cia.gov/readingroom/docs/pdb%20cm%20final%20kennedy%20and%20johnson_public%208%20sep%202015.pdf') 失败的删除尝试，don't know why
-        print(len(q))
-        #print(str(q))
-		
-		#下一步就是对应下载
-        for j in range(0, 20):
-            s = requests.session()
-            x = q[j]
-            r = requests.get(str(x))
-            y = p[j]
-		
-            with open("file" + "/" + str(y) + ".pdf", "wb") as f:
-                try:
-                    f.write(r.content)
-                    f.close()
-                    print(str(y), str(x))
-				except Exception:
-					print(y, "出现错误11111111111111111111111111")
-            s.keep_alive = False
-            print( str(y) + "done")
+old_str='---((.|\n|\r)*)<!--more-->' #包括摘要
+#old_str='---((.|\n|\r)*)---' 
+files = os.listdir(path1)
 
 ```
-
-所有的曲线救国都是因为踩了坑，比如文件名，有三种报告也就算了，居然还有特殊报告。。。
-## 下面的就是正则文件名（为了以后进行格式化，进行标准时间处理）
+## 第二步构建自己新的前置变量
 
 ```markdown
-import os
 
-# 输入文件夹地址
-path = "C:/authors/Bachelor/final/special2/special"
-files = os.listdir(path)
+for j in range(0, 4870):
+    file = files[j]
+    file = file.rstrip('.html')
+    file = file.rstrip('.md')
+    year = file.split('-')[0]
+    month = file.split('-')[1]
+    date= file.split('-')[2][0:2]
+    fdate=year+'-'+month+'-'+date
+    print(j,year,file)
 
-# 输出所有文件名，只是为了看一下
-for file in files:
-    print(file)
+    c = month.replace('01', 'January')
+    c = c.replace('06','June' )
+    c = c.replace('03','March' )
+    c = c.replace('05','May' )
+    c = c.replace('11','November' )
+    c = c.replace('09','September')
+    c = c.replace('04','April' )
+    c = c.replace('08','August' )
+    c = c.replace('12','December' )
+    c = c.replace('02','February' )
+    c = c.replace('07', 'July')
+    c = c.replace('10','October')
 
-# 获取旧名和新名
-i = 0
-for file in files:
-    # old 旧名称的信息
-    old = path + os.sep + files[i]
-    i += 1
-	c = file.replace('intelligence', '') #相信我你要做很多这种处理
-    c = c.replace('daily brief', '')
-	
+    c = month.replace('01', 'January')
+    c = c.replace('06','June' )
+    c = c.replace('03','March' )
+    c = c.replace('05','May' )
+    c = c.replace('11','November' )
+    c = c.replace('09','September')
+    c = c.replace('04','April' )
+    c = c.replace('08','August' )
+    c = c.replace('12','December' )
+    c = c.replace('02','February' )
+    c = c.replace('07', 'July')
+    c = c.replace('10','October')
+
+
+    imonth = month
+    if month == '10':
+        print(month)
+    else:
+        month = month.replace('0', '')
+        print(month)
+
+    idate=date
+    if date[0] == '0':
+        date = date.replace('0', '')
+
+    title = 'Intelligence History on ' + c + ' ' + date
+    a ="---\n"
+    a=''.join([a, ("title: %s\n" %file)])
+    a=''.join([a,("date: %s\n" %fdate )])
+    a=''.join([a,("author: CIA \n")])
+    a = ''.join([a, ("authorLink: \"/authors/cia\"\n")])
+    a=''.join([a,("timestamp: \n")])
+    a=''.join([a,("- %s\n" %year)])
+    a=''.join([a,("- %s-%s\n" % (year,imonth ))])
+    a=''.join([a,("multitype: \n")])
+    a=''.join([a,("- cia\n")])
+    a=''.join([a,("tags: \n")])
+    a=''.join([a,("- dailybrief\n")])
+    a=''.join([a,("featuredImagePreview: \'/agency/CIA.png\'\n")])
+    a=''.join([a,("---\n\n\n")])
+    a = ''.join([a, ("Presidential Daily Brief On %s %s %s\n\n" % (year, c, date))])
+    a=''.join([a,("此情报简报于%s年%s月%s日被递交给时任美国总统\n\n" %(year,month,date))])
+
+    a=''.join([a,("<!--more-->\n\n")])
+
+
+
 ```
-## 恭喜你，最后终于来到时间了。
 
+
+## 下面的就是python的读取模式，替换后覆盖写入，不损失原来的文本内容。
 
 ```markdown
-#你要用上一段代码把空格变成-，这样你得到了一大堆这样命名的文件”17-april-1967“，终于可以进行最后一步了
-for file in files:
-    # old 旧名称的信息
-    old = path + os.sep + files[i]
-    # new是新名称的信息，这里的操作是删除了最前面的不同的简报名称，比如checklist 和daily report，最神奇的还有几篇特殊报告。这些报告会导致程序的命名出错。所以你会发现最后几步尤其难以完成。
-    file = file.rstrip('.pdf')
-    file = file.split('-')[2] + '-'+file.split('-')[1] +'-'+ file.split('-')[0]+'.pdf'
-    a=file.split('-')[2]
-    b=file.split('-')[1]
-    c=file.split('-')[0]
-    print(file,a,b,c,'.pdf')
-    new = path + os.sep + file
-    #new = "C://-10" + os.sep + file[8:]
-    #re.sub(r'\d{6}|\s', '', str(i))
-    # 新旧替换
-    i += 1
-    try:
-        os.rename(old, new)
-        print(i,file)
-        file=''
-    except Exception:
-        print(file, "出现错误11111111111111111111")
-        file = ''
 
-	
+    with open(path1 + "/" + file + '.md', mode='r+', encoding="utf-8") as f1:
+
+        filec = f1.read()
+        # print(filec, 'what')
+        new_str = a
+        b=re.sub(old_str, new_str, filec)
+        print(j,file,'this______________________')
+        # 设置位置到页面顶部插入数据
+        f1.seek(0)
+        # 在文件中写入替换数据
+        f1.write(b)
+        # 截断文件大小
+        f1.truncate()
+
+        f1.close()
+
 ```
+
+## 恭喜你，成功无损更新
+
 
 
 <p align="right">Communication from Bachelor.</p> 

@@ -5,18 +5,22 @@ date: 2022-09-08
 description: "每日人物观察"
 authorLink: "/authors/bachelor"
 type: posts
-categories:
+regions:
 - North-America
-tags:
+countries:
 - United States
-- newintro
+tags:
 - Tulsi-Gabbard
 featuredImagePreview: "/img/tulsi-gabbard.jpg"
+
 multitype:
 - newintro
+
 aliases:
 - /newintro/tulsi-gabbard
 
+comment:
+  enable: false
 ---
 
 前几年关注美国国内辩论的时候观察到的还未崛起的新秀。

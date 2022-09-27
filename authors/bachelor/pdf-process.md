@@ -7,7 +7,6 @@ type: posts
 featuredImagePreview: "/agency/CIA.png"
 TocOpen: ture
 tags:
-- United States
 - dailybrief
 
 multitype: [documents, bachelor]
@@ -157,8 +156,8 @@ for j in range(0, 4865):
 
 	
 ```
-## 恭喜你，移动端也已经适配了。但是我们发现js初始启动时有时不能识别scrollHeight,所以我们要使用try，防止js中断。
-
+## 防止js报错中断执行
+恭喜你，移动端也已经适配了。但是js初始启动时有时不能识别scrollHeight,所以我们要使用try，
 ```markdown
     (function() {
 
@@ -206,7 +205,8 @@ for j in range(0, 4865):
 
 ```
 
-## 最后一步是pdf的空白问题，这个需要更改pdf的宽度，我们使用pdf-crop-margins这个包。
+## 最后一步是pdf的空白问题
+这个需要更改pdf的宽度，我们使用pdf-crop-margins这个包。
 
 
 ```markdown
