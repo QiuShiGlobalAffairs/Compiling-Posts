@@ -25,7 +25,7 @@ President of Italy's Abruzzo region says. "You'd notice her because at student m
 她15岁加入意大利青年阵线，她的同志们这么评价她，她像一头狮子，坚定，严肃。
 
 
-意大利政治的一个特殊现象是年轻化，而且他们抱团发展，基层组织完善。这一点似乎不分左右，而且意大利有这样多的学生全身心投入政治是非常让人吃惊的。Meloni和她青年阵线的同志们曾经被要求进行推广活动，成员们居然没有政治中立的朋友。[“We got our phone books, but none of us had friends who were not in politics.”](https://www.politico.eu/article/how-giorgia-meloni-thinks-brothers-of-italy-election-salvini-mario-draghi-silvio-berlusconi/)这种情况在左翼中也非常常见，比如在意大利Lucca省的Versilia，笔者就认识两位左翼职业革命家，可以确定的是，他们在学习的各种社会技能，绝对不是为了获得更好的工作。他们甚至存有枪支。这就意味着如果存在政治真空，就有暴力对抗的空间。
+意大利政治的一个特殊现象是年轻化，而且他们抱团发展，基层组织完善。这一点似乎不分左右，而且意大利有这样多的学生全身心投入政治是非常让人吃惊的。年轻时，Meloni和她青年阵线的同志们曾经被要求进行推广活动，成员们居然没有政治中立的朋友。[“We got our phone books, but none of us had friends who were not in politics.”](https://www.politico.eu/article/how-giorgia-meloni-thinks-brothers-of-italy-election-salvini-mario-draghi-silvio-berlusconi/)这种情况在左翼中也非常常见，比如在意大利Lucca省的Versilia，笔者就认识两位左翼职业革命家，可以确定的是，他们在学习的各种社会技能，绝对不是为了获得更好的工作。他们甚至存有枪支。这就意味着如果存在政治真空，就有暴力对抗的空间。
 
 意大利的街头政治是非常有活力的。笔者就曾经跟随博洛尼亚的某共产主义团体进行街访，他们拿着自己发行的报刊，拿着笔，入户走访，请求住户订阅报纸，认真建立基层联系。他们遇到对方的基层团体自然会发生一点冲突。这一点我们同样可以摘取对面的评价，Fazzolari, Meloni的亲密顾问说他们年轻时的常态就是和对面的左翼动手，然后住院。当然，左翼在街头武斗这方面也不逞多让，你甚至能在意重建共bologna的办公室内，看到他们把缴获对面的旗帜当作战利品展示。
 
