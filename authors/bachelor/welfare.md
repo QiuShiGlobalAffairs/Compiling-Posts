@@ -1,8 +1,8 @@
 ---
 title: 福利政策分类
-author: Bachelor
+author: Qiushi
 date: 2022-09-27
-authorLink: "/authors/bachelor"
+authorLink: "/authors/qiushi"
 
 tags:
 - welfare
@@ -45,9 +45,4 @@ TODO
 
 
 
-
-<<<<<<< HEAD
 <p align="right">来自球事通讯社的通讯。</p>
-=======
-<p align="right">来自学士的通讯。</p>
->>>>>>> 5748e4b68d1459ae7eed0fcfbd54b121b4e2a5d0
