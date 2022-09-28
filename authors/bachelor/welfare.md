@@ -27,7 +27,18 @@ posts
 
 ## 全民医疗
 
+大致的分类：
+* 医疗部门本身的性质：
+  * 政府主导运营
+  * 公私混合
+  * 主要由私营部门承包
+* 医疗保险的性质：
+  * 由政府提供的保险为主导
+  * 政府监管下的私人保险为主导
 
+TODO
+
+[引用来源1](https://en.wikipedia.org/wiki/List_of_countries_with_universal_health_care)
 
 ## 公立教育
 
@@ -35,4 +46,8 @@ posts
 
 
 
+<<<<<<< HEAD
 <p align="right">来自球事通讯社的通讯。</p>
+=======
+<p align="right">来自学士的通讯。</p>
+>>>>>>> 5748e4b68d1459ae7eed0fcfbd54b121b4e2a5d0
