@@ -3,13 +3,13 @@ title: 福利政策分类
 author: Bachelor
 date: 2022-09-27
 authorLink: "/authors/bachelor"
-type: posts
+
 tags:
 - welfare
-- policies
-multitype:
-- policies
-
+multitype: [
+policies,
+posts
+]
 
 ---
 
@@ -35,4 +35,4 @@ multitype:
 
 
 
-<p align="right">来自学士的通讯。</p>
+<p align="right">来自球事通讯社的通讯。</p>

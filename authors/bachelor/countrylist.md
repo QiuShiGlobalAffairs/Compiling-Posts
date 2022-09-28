@@ -7,7 +7,8 @@ featuredImagePreview: "/agency/un.svg"
 TocOpen: ture
 tags:
 - documents
-multitype: [documents,]
+multitype: 
+- documents
 ---
 
 世界上有接近两百多个国家和地区，给他们分别建立数据库是非常必要的，我们首先从他们的中英文译名和国旗开始建立index。

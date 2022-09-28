@@ -8,7 +8,7 @@ countries:
 - France
 tags:
 - Politics-Education
-type: posts
+multitype: [posts]
 authorLink: "/authors/porte-quoi"
 ---
 

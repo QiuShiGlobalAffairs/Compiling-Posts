@@ -3,15 +3,16 @@ title: CCP's penalties for intra-party corruption are getting softer.
 author: Bachelor
 date: 2022-08-31
 authorLink: "/authors/bachelor"
-type: posts
 regions:
 - East-Asia
 tags:
 - Corruption
 Countries:
 - China
-multitype:
-- policies
+multitype: [
+policies,
+posts
+]
 ---
 
 CCP's penalties for intra-party corruption are getting softer. 

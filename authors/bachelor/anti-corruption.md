@@ -3,13 +3,15 @@ title: 各国反腐机构对比
 author: Bachelor
 date: 2022-09-27
 authorLink: "/authors/bachelor"
-type: posts
 tags:
 - ICAC
 - KGB
 - corruption
-multitype:
-- policies
+multitype: [
+policies,
+posts
+]
+
 featuredImagePreview: "/agency/icac.png"
 
 ---

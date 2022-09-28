@@ -2,7 +2,6 @@
 title: CIA文件爬取，正则，可视化处理
 author: Bachelor
 date: 2022-09-10
-type: posts
 authorLink: "/authors/bachelor"
 featuredImagePreview: "/agency/CIA.png"
 TocOpen: ture
@@ -12,8 +11,9 @@ countries:
 - United States
 tags:
 - dailybrief
-multitype: [dailybrief]
-
+multitype: 
+- dailybrief
+- posts
 
 ---
 每日简报的策划,是为了加强对他国国情的认识,以及提升自己识别重要情报的能力。

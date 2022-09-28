@@ -7,7 +7,8 @@ featuredImagePreview: "/agency/CIA.png"
 TocOpen: ture
 tags:
 - documents
-multitype: [documents]
+multitype: 
+- documents
 ---
 
 在架构调整时，我们的posts前置变量总是在不断变化，而同时这些posts又已经在生产环境之下，受过修改。因此，无损迁移posts，成为了本文的主题。

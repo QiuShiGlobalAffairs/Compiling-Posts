@@ -1,5 +1,5 @@
 ---
-title: 关于政策研究和理论研究的合并
+title: 对具有特殊影响的政策进行追踪
 weight: 1
 author: Qiushi
 date: 2022-08-31
@@ -13,4 +13,4 @@ multitype:
 
 
 
-<p align="right">来自球事编辑部的通讯。</p>
+<p align="right">来自球事通讯社的通讯。</p>

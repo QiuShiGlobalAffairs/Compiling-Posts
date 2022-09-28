@@ -3,7 +3,10 @@ title: hugo building 建站小结
 author: Bachelor
 date: 2022-09-26
 authorLink: "/authors/bachelor"
-multitype: [documents, bachelor]
+multitype: [
+documents, 
+bachelor
+]
 tags:
 - documents
 ---

@@ -3,13 +3,15 @@ title: pdf移动端适配，转base64图片，可视化处理
 author: Bachelor
 date: 2022-09-10
 authorLink: "/authors/bachelor"
-type: posts
 featuredImagePreview: "/agency/CIA.png"
 TocOpen: ture
 tags:
 - dailybrief
 
-multitype: [documents, bachelor]
+multitype: [
+documents, 
+posts
+]
 ---
 
 每日简报的策划，终于到了展示阶段。

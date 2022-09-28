@@ -13,6 +13,12 @@ tags:
 - documents
 comment:
   enable: false
+toc:
+  auto: false
+ 
+multitype: 
+- documents
+
 ---
 
 ## Institutional arrangement

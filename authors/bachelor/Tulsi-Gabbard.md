@@ -4,7 +4,6 @@ author: Bachelor
 date: 2022-09-08
 description: "每日人物观察"
 authorLink: "/authors/bachelor"
-type: posts
 regions:
 - North-America
 countries:
@@ -13,9 +12,10 @@ tags:
 - Tulsi-Gabbard
 featuredImagePreview: "/img/tulsi-gabbard.jpg"
 
-multitype:
-- newintro
-
+multitype: [
+newintro,
+posts
+]
 aliases:
 - /newintro/tulsi-gabbard
 

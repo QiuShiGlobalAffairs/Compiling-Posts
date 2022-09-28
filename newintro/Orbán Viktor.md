@@ -7,6 +7,7 @@ countries:
 - Hungary
 tags:
 - Orban Viktor
+- Europe Right
 featuredImagePreview: "https://assets.letemps.ch/sites/default/files/file6m3gir5m76d5s5jy71m.jpg"
 toc: false 
 ---
