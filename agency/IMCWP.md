@@ -1,5 +1,5 @@
 ---
-title: APPEAL of the 21st IMCWP
+title: IMCWP 共产党和工人党国际会议
 author: IMCWP
 date: 2022-09-28
 description: ""

@@ -10,7 +10,7 @@ countries:
 - China
 tags:
 - Irn
-featuredImagePreview: "/agency/irn.jpg"
+featuredImagePreview: "/agency/irn.png"
 
 multitype: [
 newintro,
